@@ -21,62 +21,40 @@ BASE_DIR = Path(__file__).parent
 # ESTILOS
 # =========================================================
 
-st.markdown("""
-<style>
+st.markdown(
+    f"""
+    <div class="card">
 
-.main {
-    padding-top: 1rem;
-}
+        <div class="card-title">
+            {row['name']}
+        </div>
 
-.stButton > button {
-    width: 100%;
-    border-radius: 12px;
-    height: 3rem;
-    font-size: 18px;
-    font-weight: 600;
-}
+        <div class="card-subtitle">
+            📍 {row['city']}, {row['state']}
+        </div>
 
-.card {
-    background-color: #1e1e1e;
-    padding: 1.5rem;
-    border-radius: 16px;
-    margin-bottom: 1rem;
-    border: 1px solid #333333;
-}
+        <div>
+            🍽️ <b>Categoría:</b> {row['main_category']}
+        </div>
 
-.card-title {
-    font-size: 28px;
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-}
+        <div style="margin-top:0.5rem;">
+            {"⭐" * int(round(row['business_avg_stars']))}
+            ({row['business_avg_stars']:.1f})
+        </div>
 
-.card-subtitle {
-    color: #bbbbbb;
-    margin-bottom: 1rem;
-}
+        <div style="margin-top:0.5rem;">
+            📝 {int(row['review_count'])} reseñas
+        </div>
 
-.score-box {
-    background-color: #262730;
-    padding: 1rem;
-    border-radius: 12px;
-    text-align: center;
-}
+        <div class="explanation-box">
+            <b>✨ ¿Por qué te lo recomendamos?</b><br><br>
+            {row['explicacion']}
+        </div>
 
-.explanation-box {
-    background-color: #202020;
-    padding: 1rem;
-    border-radius: 12px;
-    border-left: 5px solid #ff4b4b;
-    margin-top: 1rem;
-}
-
-.small-text {
-    color: #bbbbbb;
-    font-size: 14px;
-}
-
-</style>
-""", unsafe_allow_html=True)
+    </div>
+    """,
+    unsafe_allow_html=True
+)
 
 # =========================================================
 # CARGA DE DATOS
