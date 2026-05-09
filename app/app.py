@@ -361,7 +361,7 @@ if st.button("🔍 Descubrir recomendaciones"):
         top_n
     )
 
-    if recs.empty():
+    if recs.empty:
 
         st.warning(
             "No encontramos recomendaciones con esos filtros."
