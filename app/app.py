@@ -367,7 +367,7 @@ city = st.sidebar.selectbox(
 )
 
 category = st.sidebar.selectbox(
-    "🍽️ Tipo de negocio",
+    "🏪 Tipo de negocio",
     categories
 )
 
@@ -428,7 +428,7 @@ if st.button(
             with st.container(border=True):
 
                 st.subheader(
-                    f"🍽️ {row['name']}"
+                    f"{row['name']}"
                 )
 
                 st.write(
