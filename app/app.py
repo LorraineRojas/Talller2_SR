@@ -173,31 +173,31 @@ def build_explanation(row):
     if row["pred_svd"] >= 4:
 
         reasons.append(
-            "usuarios con gustos similares disfrutaron este lugar"
+            "Usuarios con gustos similares disfrutaron este lugar"
         )
 
     if row["pred_context"] >= 4:
 
         reasons.append(
-            "este negocio es popular en el contexto seleccionado"
+            "Este negocio es popular en el contexto seleccionado"
         )
 
     if row["business_avg_stars"] >= 4:
 
         reasons.append(
-            "el lugar tiene excelentes calificaciones"
+            "El lugar tiene excelentes calificaciones"
         )
 
     if row["review_count"] >= 100:
 
         reasons.append(
-            "muchas personas han visitado este negocio"
+            "Muchas personas han visitado este negocio"
         )
 
     if not reasons:
 
         reasons.append(
-            "el sistema encontró afinidad con tus preferencias"
+            "El sistema encontró afinidad con tus preferencias"
         )
 
     return " • ".join(reasons)
@@ -213,7 +213,9 @@ def recommend(
 
     candidates = item_features.copy()
 
+    # =====================================================
     # FILTROS
+    # =====================================================
 
     if city and city != "Todas":
 
@@ -238,7 +240,9 @@ def recommend(
         is_weekend
     )
 
-    # SCORE SVD
+    # =====================================================
+    # SCORE COLABORATIVO
+    # =====================================================
 
     candidates["pred_svd"] = [
 
@@ -249,7 +253,9 @@ def recommend(
 
     ]
 
+    # =====================================================
     # SCORE CONTEXTUAL
+    # =====================================================
 
     candidates = candidates.merge(
 
@@ -279,7 +285,9 @@ def recommend(
 
     )
 
+    # =====================================================
     # SCORE HÍBRIDO
+    # =====================================================
 
     candidates["score_hybrid"] = np.clip(
 
@@ -294,7 +302,9 @@ def recommend(
 
     )
 
+    # =====================================================
     # EXPLICACIONES
+    # =====================================================
 
     candidates["explicacion"] = (
 
@@ -446,10 +456,13 @@ if st.button(
                     f"reseñas"
                 )
 
-                with st.expander("✨ ¿Por qué te lo recomendamos?"):
+                with st.expander(
+                    "✨ ¿Por qué te lo recomendamos?"
+                ):
 
-                st.write(row["explicacion"])
-                
+                    st.write(
+                        row["explicacion"]
+                    )
 
                 with st.expander(
                     "Ver detalles técnicos"
@@ -510,7 +523,7 @@ with st.expander(
     ].iloc[0]
 
     st.subheader(
-        "Métricas del modelo"
+        "📊 Métricas del modelo"
     )
 
     c1, c2, c3, c4, c5 = st.columns(5)
