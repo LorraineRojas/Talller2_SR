@@ -286,13 +286,13 @@ col1, col2, col3, col4 = st.columns(4)
 rmse = metricas_regresion["RMSE"].iloc[0]
 mae = metricas_regresion["MAE"].iloc[0]
 
-precision = metricas_ranking["Precision@10"].iloc[0]
-ndcg = metricas_ranking["NDCG@10"].iloc[0]
+precision = metricas_ranking["precision@10"].iloc[0]
+ndcg = metricas_ranking["ndcg@10"].iloc[0]
 
 col1.metric("RMSE", f"{rmse:.3f}")
 col2.metric("MAE", f"{mae:.3f}")
-col3.metric("Precision@10", f"{precision:.3f}")
-col4.metric("NDCG@10", f"{ndcg:.3f}")
+col3.metric("precision@10", f"{precision:.3f}")
+col4.metric("ndcg@10", f"{ndcg:.3f}")
 
 # =========================================================
 # GENERAR RECOMENDACIONES
