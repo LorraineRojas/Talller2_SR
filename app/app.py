@@ -5,13 +5,13 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-BASE_DIR = Path(__file__).parent
+
 
 @st.cache_data
 def load_data():
-    item_features = pd.read_csv(BASE_DIR / "item_features.csv")
-    context_stats = pd.read_csv(BASE_DIR / "context_stats.csv")
-    with open(BASE_DIR / "svd_artifacts.pkl", "rb") as f:
+    item_features = pd.read_csv( "item_features.csv")
+    context_stats = pd.read_csv("context_stats.csv")
+    with open("svd_artifacts.pkl", "rb") as f:
         artifacts = pickle.load(f)
     return item_features, context_stats, artifacts
 
