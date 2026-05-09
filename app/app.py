@@ -6,16 +6,77 @@ import pandas as pd
 import streamlit as st
 
 # =========================================================
-# CONFIGURACIÓN
+# CONFIGURACIÓN GENERAL
 # =========================================================
 
 st.set_page_config(
-    page_title="Yelp Hybrid Recommender",
-    page_icon="⭐",
+    page_title="Yelp Smart Recommender",
+    page_icon="🍴",
     layout="wide"
 )
 
 BASE_DIR = Path(__file__).parent
+
+# =========================================================
+# ESTILOS
+# =========================================================
+
+st.markdown("""
+<style>
+
+.main {
+    padding-top: 1rem;
+}
+
+.stButton > button {
+    width: 100%;
+    border-radius: 12px;
+    height: 3rem;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.card {
+    background-color: #1e1e1e;
+    padding: 1.5rem;
+    border-radius: 16px;
+    margin-bottom: 1rem;
+    border: 1px solid #333333;
+}
+
+.card-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.card-subtitle {
+    color: #bbbbbb;
+    margin-bottom: 1rem;
+}
+
+.score-box {
+    background-color: #262730;
+    padding: 1rem;
+    border-radius: 12px;
+    text-align: center;
+}
+
+.explanation-box {
+    background-color: #202020;
+    padding: 1rem;
+    border-radius: 12px;
+    border-left: 5px solid #ff4b4b;
+    margin-top: 1rem;
+}
+
+.small-text {
+    color: #bbbbbb;
+    font-size: 14px;
+}
+
+</style>
+""", unsafe_allow_html=True)
 
 # =========================================================
 # CARGA DE DATOS
@@ -27,8 +88,13 @@ def load_data():
     item_features = pd.read_csv(BASE_DIR / "item_features.csv")
     context_stats = pd.read_csv(BASE_DIR / "context_stats.csv")
 
-    metricas_regresion = pd.read_csv(BASE_DIR / "metricas_regresion.csv")
-    metricas_ranking = pd.read_csv(BASE_DIR / "metricas_ranking.csv")
+    metricas_regresion = pd.read_csv(
+        BASE_DIR / "metricas_regresion.csv"
+    )
+
+    metricas_ranking = pd.read_csv(
+        BASE_DIR / "metricas_ranking.csv"
+    )
 
     with open(BASE_DIR / "svd_artifacts.pkl", "rb") as f:
         artifacts = pickle.load(f)
@@ -41,6 +107,7 @@ def load_data():
         artifacts
     )
 
+
 (
     item_features,
     context_stats,
@@ -50,10 +117,11 @@ def load_data():
 ) = load_data()
 
 # =========================================================
-# ARTEFACTOS
+# ARTEFACTOS DEL MODELO
 # =========================================================
 
 global_mean = artifacts["global_mean"]
+
 user_mean = artifacts["user_mean"]
 business_mean = artifacts["business_mean"]
 
@@ -66,13 +134,16 @@ item_factors = artifacts["item_factors"]
 best_alpha = artifacts["best_alpha"]
 
 # =========================================================
-# FUNCIONES MODELO
+# FUNCIONES DEL MODELO
 # =========================================================
 
 def baseline_prediction(user_id, business_id):
 
     if user_id in user_mean and business_id in business_mean:
-        return (user_mean[user_id] + business_mean[business_id]) / 2
+        return (
+            user_mean[user_id]
+            + business_mean[business_id]
+        ) / 2
 
     if user_id in user_mean:
         return user_mean[user_id]
@@ -98,7 +169,10 @@ def predict_svd(user_id, business_id):
         )
 
     else:
-        pred = baseline_prediction(user_id, business_id)
+        pred = baseline_prediction(
+            user_id,
+            business_id
+        )
 
     return float(np.clip(pred, 1, 5))
 
@@ -109,27 +183,27 @@ def build_explanation(row):
 
     if row["pred_svd"] >= 4:
         reasons.append(
-            "usuarios con preferencias similares calificaron este negocio positivamente"
+            "usuarios con gustos similares disfrutaron este lugar"
         )
 
     if row["pred_context"] >= 4:
         reasons.append(
-            "el contexto seleccionado presenta alta afinidad con este tipo de negocio"
-        )
-
-    if row["review_count"] >= 100:
-        reasons.append(
-            "el negocio posee una alta cantidad de reseñas"
+            "este tipo de negocio es popular en el contexto seleccionado"
         )
 
     if row["business_avg_stars"] >= 4:
         reasons.append(
-            "el negocio tiene una excelente calificación promedio"
+            "el negocio tiene excelentes calificaciones"
+        )
+
+    if row["review_count"] >= 100:
+        reasons.append(
+            "muchas personas han visitado este lugar"
         )
 
     if not reasons:
         reasons.append(
-            "el sistema encontró afinidad moderada entre el usuario y el negocio"
+            "el sistema encontró afinidad entre tus preferencias y este negocio"
         )
 
     return " • ".join(reasons)
@@ -161,13 +235,13 @@ def recommend(
 
     candidates["is_weekend"] = int(is_weekend)
 
-    # SVD
+    # SCORE SVD
     candidates["pred_svd"] = [
         predict_svd(user_id, b)
         for b in candidates["business_id"]
     ]
 
-    # CONTEXTO
+    # SCORE CONTEXTUAL
     candidates = candidates.merge(
         context_stats[
             [
@@ -193,12 +267,13 @@ def recommend(
     # SCORE HÍBRIDO
     candidates["score_hybrid"] = np.clip(
         best_alpha * candidates["pred_svd"]
-        + (1 - best_alpha) * candidates["pred_context"],
+        + (1 - best_alpha)
+        * candidates["pred_context"],
         1,
         5
     )
 
-    # EXPLICACIÓN
+    # EXPLICACIONES
     candidates["explicacion"] = candidates.apply(
         build_explanation,
         axis=1
@@ -206,7 +281,10 @@ def recommend(
 
     return (
         candidates
-        .sort_values("score_hybrid", ascending=False)
+        .sort_values(
+            "score_hybrid",
+            ascending=False
+        )
         .head(top_n)
     )
 
@@ -214,12 +292,12 @@ def recommend(
 # SIDEBAR
 # =========================================================
 
-st.sidebar.title("⚙️ Configuración")
+st.sidebar.header("⚙️ Personaliza tu experiencia")
 
 user_options = list(user_to_idx.keys())[:500]
 
 user_id = st.sidebar.selectbox(
-    "Usuario",
+    "👤 Perfil de usuario",
     user_options
 )
 
@@ -238,67 +316,42 @@ categories = ["Todas"] + sorted(
 )
 
 city = st.sidebar.selectbox(
-    "Ciudad",
+    "📍 Ciudad",
     cities
 )
 
 category = st.sidebar.selectbox(
-    "Categoría",
+    "🍽️ Tipo de negocio",
     categories
 )
 
 is_weekend = st.sidebar.checkbox(
-    "Fin de semana"
+    "🌙 Estoy buscando planes para fin de semana"
 )
 
 top_n = st.sidebar.slider(
-    "Número de recomendaciones",
+    "⭐ Número de recomendaciones",
     5,
     20,
     10
 )
 
 # =========================================================
-# HEADER
+# HEADER PRINCIPAL
 # =========================================================
 
-st.title("⭐ Sistema Híbrido de Recomendación Yelp")
+st.title("🍴 Encuentra tu próximo lugar favorito")
 
 st.markdown("""
-Este sistema combina:
-
-- **Filtrado colaborativo por factorización matricial (SVD)**
-- **Recomendación sensible al contexto**
-- **Modelo híbrido ponderado**
-
-El objetivo es generar recomendaciones personalizadas
-de negocios considerando preferencias históricas y contexto.
+Descubre restaurantes y negocios recomendados especialmente para ti,
+considerando tus preferencias y el contexto de tu visita.
 """)
 
 # =========================================================
-# MÉTRICAS
+# BOTÓN PRINCIPAL
 # =========================================================
 
-st.subheader("📊 Evaluación del modelo")
-
-col1, col2, col3, col4 = st.columns(4)
-
-rmse = metricas_regresion["RMSE"].iloc[0]
-mae = metricas_regresion["MAE"].iloc[0]
-
-precision = metricas_ranking["precision@10"].iloc[0]
-ndcg = metricas_ranking["ndcg@10"].iloc[0]
-
-col1.metric("RMSE", f"{rmse:.3f}")
-col2.metric("MAE", f"{mae:.3f}")
-col3.metric("precision@10", f"{precision:.3f}")
-col4.metric("ndcg@10", f"{ndcg:.3f}")
-
-# =========================================================
-# GENERAR RECOMENDACIONES
-# =========================================================
-
-if st.button("🚀 Generar recomendaciones"):
+if st.button("🔍 Descubrir recomendaciones"):
 
     recs = recommend(
         user_id,
@@ -308,81 +361,126 @@ if st.button("🚀 Generar recomendaciones"):
         top_n
     )
 
-    if recs.empty:
+    if recs.empty():
 
         st.warning(
-            "No se encontraron recomendaciones."
+            "No encontramos recomendaciones con esos filtros."
         )
 
     else:
 
-        st.subheader("🎯 Recomendaciones personalizadas")
+        st.subheader("✨ Recomendaciones personalizadas")
 
         for _, row in recs.iterrows():
 
-            with st.container():
+            stars = "⭐" * int(
+                round(row["business_avg_stars"])
+            )
 
-                st.markdown("---")
+            st.markdown(
+                f"""
+                <div class="card">
 
-                col1, col2 = st.columns([3, 1])
+                    <div class="card-title">
+                        {row['name']}
+                    </div>
+
+                    <div class="card-subtitle">
+                        📍 {row['city']}, {row['state']}
+                    </div>
+
+                    <div>
+                        🍽️ <b>Categoría:</b> {row['main_category']}
+                    </div>
+
+                    <div style="margin-top:0.5rem;">
+                        {stars}
+                        ({row['business_avg_stars']:.1f})
+                    </div>
+
+                    <div style="margin-top:0.5rem;">
+                        📝 {int(row['review_count'])} reseñas
+                    </div>
+
+                    <div class="explanation-box">
+                        <b>✨ ¿Por qué te lo recomendamos?</b><br><br>
+                        {row['explicacion']}
+                    </div>
+
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+
+            with st.expander(
+                "Ver detalles de la recomendación"
+            ):
+
+                col1, col2, col3 = st.columns(3)
 
                 with col1:
-
-                    st.markdown(
-                        f"## {row['name']}"
-                    )
-
-                    st.write(
-                        f"📍 {row['city']}, {row['state']}"
-                    )
-
-                    st.write(
-                        f"🍽️ Categoría: {row['main_category']}"
-                    )
-
-                    st.write(
-                        f"⭐ Rating promedio: "
-                        f"{row['business_avg_stars']:.1f}"
-                    )
-
-                    st.write(
-                        f"📝 Reviews: "
-                        f"{int(row['review_count'])}"
-                    )
-
-                with col2:
-
                     st.metric(
                         "Score híbrido",
                         f"{row['score_hybrid']:.2f}"
                     )
 
-                st.info(
-                    f"""
-                    **Explicación de la recomendación**
-
-                    {row['explicacion']}
-                    """
-                )
-
-                with st.expander(
-                    "Ver detalles técnicos"
-                ):
-
-                    st.write(
-                        f"SVD Score: "
+                with col2:
+                    st.metric(
+                        "Afinidad colaborativa",
                         f"{row['pred_svd']:.2f}"
                     )
 
-                    st.write(
-                        f"Context Score: "
+                with col3:
+                    st.metric(
+                        "Afinidad contextual",
                         f"{row['pred_context']:.2f}"
                     )
 
-                    st.write(
-                        f"Alpha híbrido: "
-                        f"{best_alpha:.2f}"
-                    )
+# =========================================================
+# INFORMACIÓN TÉCNICA
+# =========================================================
+
+with st.expander("ℹ️ Información técnica del sistema"):
+
+    st.markdown("""
+    Este sistema utiliza un modelo híbrido de recomendación que combina:
+
+    - Filtrado colaborativo mediante factorización matricial (SVD)
+    - Recomendación sensible al contexto
+    - Fusión híbrida ponderada
+    """)
+
+    rmse = metricas_regresion["rmse"].iloc[0]
+    mae = metricas_regresion["mae"].iloc[0]
+
+    precision = metricas_ranking["precision@10"].iloc[0]
+    recall = metricas_ranking["recall@10"].iloc[0]
+    ndcg = metricas_ranking["ndcg@10"].iloc[0]
+
+    st.subheader("📊 Métricas del modelo")
+
+    c1, c2, c3, c4, c5 = st.columns(5)
+
+    c1.metric("RMSE", f"{rmse:.3f}")
+    c2.metric("MAE", f"{mae:.3f}")
+    c3.metric("Precision@10", f"{precision:.3f}")
+    c4.metric("Recall@10", f"{recall:.3f}")
+    c5.metric("NDCG@10", f"{ndcg:.3f}")
+
+    st.markdown(
+        f"""
+        ### Configuración híbrida
+
+        El sistema utiliza un parámetro de combinación:
+
+        α = {best_alpha:.2f}
+
+        donde:
+
+        - α controla el peso del componente colaborativo
+        - (1-α) controla el peso contextual
+        """
+    )
 
 # =========================================================
 # FOOTER
@@ -393,6 +491,5 @@ st.markdown("---")
 st.caption("""
 Proyecto académico — Sistemas de Recomendación
 
-Modelo híbrido:
-SVD + Context-Aware Recommendation
+Modelo híbrido para recomendación personalizada de negocios Yelp.
 """)
