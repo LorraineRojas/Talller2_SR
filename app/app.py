@@ -412,39 +412,34 @@ if st.button("🔍 Descubrir recomendaciones"):
                 round(row["business_avg_stars"])
             )
 
-            st.markdown(
+            with st.container(border=True):
+
+            st.subheader(f"🍽️ {row['name']}")
+        
+            st.write(f"📍 {row['city']}, {row['state']}")
+        
+            st.write(
+                f"🍜 Categoría: {row['main_category']}"
+            )
+        
+            stars = "⭐" * int(
+                round(row["business_avg_stars"])
+            )
+        
+            st.write(
+                f"{stars} ({row['business_avg_stars']:.1f})"
+            )
+        
+            st.write(
+                f"📝 {int(row['review_count'])} reseñas"
+            )
+        
+            st.info(
                 f"""
-                <div class="card">
-
-                    <div class="card-title">
-                        {row['name']}
-                    </div>
-
-                    <div class="card-subtitle">
-                        📍 {row['city']}, {row['state']}
-                    </div>
-
-                    <div style="color:white;">
-                        🍽️ <b>Categoría:</b> {row['main_category']}
-                    </div>
-
-                    <div style="margin-top:0.5rem; color:white;">
-                        {stars}
-                        ({row['business_avg_stars']:.1f})
-                    </div>
-
-                    <div style="margin-top:0.5rem; color:white;">
-                        📝 {int(row['review_count'])} reseñas
-                    </div>
-
-                    <div class="explanation-box">
-                        <b>✨ ¿Por qué te lo recomendamos?</b><br><br>
-                        {row['explicacion']}
-                    </div>
-
-                </div>
-                """,
-                unsafe_allow_html=True
+                ✨ ¿Por qué te lo recomendamos?
+        
+                {row['explicacion']}
+                """
             )
 
             with st.expander(
