@@ -450,8 +450,8 @@ with st.expander("ℹ️ Información técnica del sistema"):
     - Fusión híbrida ponderada
     """)
 
-    rmse = metricas_regresion["rmse"].iloc[0]
-    mae = metricas_regresion["mae"].iloc[0]
+    rmse = metricas_regresion["RMSE"].iloc[0]
+    mae = metricas_regresion["MAE"].iloc[0]
 
     precision = metricas_ranking["precision@10"].iloc[0]
     recall = metricas_ranking["recall@10"].iloc[0]
