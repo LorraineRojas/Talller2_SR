@@ -21,40 +21,52 @@ BASE_DIR = Path(__file__).parent
 # ESTILOS
 # =========================================================
 
-st.markdown(
-    f"""
-    <div class="card">
+st.markdown("""
+<style>
 
-        <div class="card-title">
-            {row['name']}
-        </div>
+.main {
+    padding-top: 1rem;
+}
 
-        <div class="card-subtitle">
-            📍 {row['city']}, {row['state']}
-        </div>
+.stButton > button {
+    width: 100%;
+    border-radius: 12px;
+    height: 3rem;
+    font-size: 18px;
+    font-weight: 600;
+}
 
-        <div>
-            🍽️ <b>Categoría:</b> {row['main_category']}
-        </div>
+.card {
+    background-color: #1f1f1f;
+    padding: 1.5rem;
+    border-radius: 16px;
+    margin-bottom: 1rem;
+    border: 1px solid #333333;
+}
 
-        <div style="margin-top:0.5rem;">
-            {"⭐" * int(round(row['business_avg_stars']))}
-            ({row['business_avg_stars']:.1f})
-        </div>
+.card-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+    margin-bottom: 0.5rem;
+}
 
-        <div style="margin-top:0.5rem;">
-            📝 {int(row['review_count'])} reseñas
-        </div>
+.card-subtitle {
+    color: #bbbbbb;
+    margin-bottom: 1rem;
+}
 
-        <div class="explanation-box">
-            <b>✨ ¿Por qué te lo recomendamos?</b><br><br>
-            {row['explicacion']}
-        </div>
+.explanation-box {
+    background-color: #2a2a2a;
+    padding: 1rem;
+    border-radius: 12px;
+    border-left: 5px solid #ff4b4b;
+    margin-top: 1rem;
+    color: white;
+}
 
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+</style>
+""", unsafe_allow_html=True)
 
 # =========================================================
 # CARGA DE DATOS
@@ -63,8 +75,13 @@ st.markdown(
 @st.cache_data
 def load_data():
 
-    item_features = pd.read_csv(BASE_DIR / "item_features.csv")
-    context_stats = pd.read_csv(BASE_DIR / "context_stats.csv")
+    item_features = pd.read_csv(
+        BASE_DIR / "item_features.csv"
+    )
+
+    context_stats = pd.read_csv(
+        BASE_DIR / "context_stats.csv"
+    )
 
     metricas_regresion = pd.read_csv(
         BASE_DIR / "metricas_regresion.csv"
@@ -72,6 +89,17 @@ def load_data():
 
     metricas_ranking = pd.read_csv(
         BASE_DIR / "metricas_ranking.csv"
+    )
+
+    # NORMALIZAR NOMBRES DE COLUMNAS
+    metricas_regresion.columns = (
+        metricas_regresion.columns
+        .str.strip()
+    )
+
+    metricas_ranking.columns = (
+        metricas_ranking.columns
+        .str.strip()
     )
 
     with open(BASE_DIR / "svd_artifacts.pkl", "rb") as f:
@@ -95,7 +123,7 @@ def load_data():
 ) = load_data()
 
 # =========================================================
-# ARTEFACTOS DEL MODELO
+# ARTEFACTOS
 # =========================================================
 
 global_mean = artifacts["global_mean"]
@@ -198,12 +226,15 @@ def recommend(
     candidates = item_features.copy()
 
     # FILTROS
+
     if city and city != "Todas":
+
         candidates = candidates[
             candidates["city"] == city
         ].copy()
 
     if main_category and main_category != "Todas":
+
         candidates = candidates[
             candidates["main_category"] == main_category
         ].copy()
@@ -214,13 +245,20 @@ def recommend(
     candidates["is_weekend"] = int(is_weekend)
 
     # SCORE SVD
+
     candidates["pred_svd"] = [
-        predict_svd(user_id, b)
-        for b in candidates["business_id"]
+
+        predict_svd(user_id, business_id)
+
+        for business_id
+        in candidates["business_id"]
+
     ]
 
     # SCORE CONTEXTUAL
+
     candidates = candidates.merge(
+
         context_stats[
             [
                 "city",
@@ -229,41 +267,54 @@ def recommend(
                 "context_score"
             ]
         ],
+
         on=[
             "city",
             "main_category",
             "is_weekend"
         ],
+
         how="left"
+
     )
 
     candidates["pred_context"] = (
+
         candidates["context_score"]
         .fillna(global_mean)
+
     )
 
     # SCORE HÍBRIDO
+
     candidates["score_hybrid"] = np.clip(
+
         best_alpha * candidates["pred_svd"]
+
         + (1 - best_alpha)
         * candidates["pred_context"],
+
         1,
         5
+
     )
 
     # EXPLICACIONES
+
     candidates["explicacion"] = candidates.apply(
         build_explanation,
         axis=1
     )
 
     return (
+
         candidates
         .sort_values(
             "score_hybrid",
             ascending=False
         )
         .head(top_n)
+
     )
 
 # =========================================================
@@ -280,17 +331,21 @@ user_id = st.sidebar.selectbox(
 )
 
 cities = ["Todas"] + sorted(
+
     item_features["city"]
     .dropna()
     .unique()
     .tolist()
+
 )
 
 categories = ["Todas"] + sorted(
+
     item_features["main_category"]
     .dropna()
     .unique()
     .tolist()
+
 )
 
 city = st.sidebar.selectbox(
@@ -326,7 +381,7 @@ considerando tus preferencias y el contexto de tu visita.
 """)
 
 # =========================================================
-# BOTÓN PRINCIPAL
+# GENERAR RECOMENDACIONES
 # =========================================================
 
 if st.button("🔍 Descubrir recomendaciones"):
@@ -347,7 +402,9 @@ if st.button("🔍 Descubrir recomendaciones"):
 
     else:
 
-        st.subheader("✨ Recomendaciones personalizadas")
+        st.subheader(
+            "✨ Recomendaciones personalizadas"
+        )
 
         for _, row in recs.iterrows():
 
@@ -367,16 +424,16 @@ if st.button("🔍 Descubrir recomendaciones"):
                         📍 {row['city']}, {row['state']}
                     </div>
 
-                    <div>
+                    <div style="color:white;">
                         🍽️ <b>Categoría:</b> {row['main_category']}
                     </div>
 
-                    <div style="margin-top:0.5rem;">
+                    <div style="margin-top:0.5rem; color:white;">
                         {stars}
                         ({row['business_avg_stars']:.1f})
                     </div>
 
-                    <div style="margin-top:0.5rem;">
+                    <div style="margin-top:0.5rem; color:white;">
                         📝 {int(row['review_count'])} reseñas
                     </div>
 
@@ -397,18 +454,21 @@ if st.button("🔍 Descubrir recomendaciones"):
                 col1, col2, col3 = st.columns(3)
 
                 with col1:
+
                     st.metric(
                         "Score híbrido",
                         f"{row['score_hybrid']:.2f}"
                     )
 
                 with col2:
+
                     st.metric(
                         "Afinidad colaborativa",
                         f"{row['pred_svd']:.2f}"
                     )
 
                 with col3:
+
                     st.metric(
                         "Afinidad contextual",
                         f"{row['pred_context']:.2f}"
@@ -418,7 +478,9 @@ if st.button("🔍 Descubrir recomendaciones"):
 # INFORMACIÓN TÉCNICA
 # =========================================================
 
-with st.expander("ℹ️ Información técnica del sistema"):
+with st.expander(
+    "ℹ️ Información técnica del sistema"
+):
 
     st.markdown("""
     Este sistema utiliza un modelo híbrido de recomendación que combina:
@@ -455,7 +517,7 @@ with st.expander("ℹ️ Información técnica del sistema"):
 
         donde:
 
-        - α controla el peso del componente colaborativo
+        - α controla el peso colaborativo
         - (1-α) controla el peso contextual
         """
     )
