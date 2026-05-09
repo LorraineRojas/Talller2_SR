@@ -1,0 +1,3127 @@
+city,main_category,is_weekend,context_score,context_count
+Abington,Thai,1,5.0,1
+Affton,Shipping Centers,0,3.0,1
+Alton,Public Services & Government,0,4.0,2
+Ambler,Health & Medical,0,5.0,1
+Ambler,Restaurants,1,4.0,1
+Antioch,Restaurants,0,2.6666666666666665,3
+Antioch,Shopping Centers,0,2.0,4
+Antioch,Shopping Centers,1,2.0,2
+Arabi,Food,0,4.0,1
+Ardmore,American (Traditional),0,4.0,2
+Ardmore,Automotive,0,5.0,1
+Ardmore,Beauty & Spas,0,5.0,1
+Ardmore,Car Dealers,0,4.0,1
+Ardmore,Home Services,0,5.0,1
+Ardmore,Indian,0,4.0,1
+Ardmore,Italian,0,3.0,1
+Ardmore,Italian,1,1.0,1
+Ardmore,Nightlife,1,5.0,1
+Ardmore,Pizza,0,4.8,5
+Ardmore,Pizza,1,5.0,2
+Ardmore,Restaurants,0,3.6666666666666665,18
+Ardmore,Restaurants,1,3.5555555555555554,9
+Ardmore,Sandwiches,0,4.0,1
+Ardmore,Taxis,0,1.3333333333333333,3
+Ashland City,American (New),1,3.0,1
+Ashland City,Restaurants,0,3.0,1
+Ashland City,Restaurants,1,5.0,1
+Aston,American (Traditional),0,5.0,1
+Aston,American (Traditional),1,5.0,1
+Aston,Automotive,0,3.0,1
+Aston,Nightlife,0,3.0,1
+Aston,Nightlife,1,2.0,1
+Aston,Restaurants,0,3.6666666666666665,3
+Audubon,Barbeque,0,5.0,1
+Audubon,Coffee & Tea,0,3.0,1
+Audubon,Restaurants,0,2.0,1
+Audubon,Restaurants,1,4.0,1
+Avon,American (Traditional),0,2.0,1
+Avon,Restaurants,0,3.5,4
+Avon,Restaurants,1,4.0,2
+Avon,Sandwiches,1,4.0,2
+Avon,Vietnamese,0,4.333333333333333,6
+Avondale,Diners,1,1.0,1
+Bala Cynwyd,Caterers,0,1.0,1
+Bala Cynwyd,Italian,0,2.6666666666666665,3
+Bala Cynwyd,Italian,1,2.0,1
+Bala Cynwyd,Juice Bars & Smoothies,0,3.4166666666666665,12
+Bala Cynwyd,Juice Bars & Smoothies,1,3.25,4
+Bala Cynwyd,Nightlife,0,4.0,2
+Ballwin,Active Life,0,1.0,1
+Ballwin,Cafes,0,4.0,3
+Ballwin,Cafes,1,3.6666666666666665,3
+Ballwin,Food,0,1.0,1
+Ballwin,Japanese,0,3.0,2
+Ballwin,Japanese,1,3.0,2
+Ballwin,Restaurants,0,3.8333333333333335,6
+Ballwin,Restaurants,1,5.0,1
+Ballwin,Sandwiches,0,4.333333333333333,3
+Beech Grove,Education,0,5.0,1
+Belle Chasse,Japanese,0,4.0,1
+Belle Chasse,Pizza,0,3.0,1
+Belle Chasse,Restaurants,0,4.0,1
+Belle Chasse,Restaurants,1,3.0,2
+Belleville,Bars,0,4.0,1
+Belleville,Bars,1,5.0,1
+Bensalem,American (New),0,2.0,1
+Bensalem,American (New),1,1.0,1
+Bensalem,Bakeries,0,5.0,1
+Bensalem,Bakeries,1,5.0,1
+Bensalem,Buffets,0,3.5,2
+Bensalem,Chinese,0,3.0,1
+Bensalem,Japanese,0,4.0,3
+Bensalem,Japanese,1,3.0,2
+Bensalem,Pizza,0,5.0,1
+Bensalem,Pizza,1,5.0,1
+Bensalem,Restaurants,0,2.5,2
+Bensalem,Restaurants,1,5.0,1
+Bensalem,Sandwiches,0,5.0,1
+Bensalem,Specialty Food,1,4.5,2
+Bensalem,Steakhouses,0,3.6666666666666665,3
+Bensalem,Transmission Repair,0,5.0,1
+Bensalem,Transmission Repair,1,3.0,1
+Berlin,Restaurants,1,4.0,1
+Berwyn,Restaurants,0,3.75,4
+Berwyn,Restaurants,1,5.0,1
+Blackwood,Bars,0,2.0,1
+Blackwood,Bars,1,3.0,1
+Blackwood,Burgers,0,4.333333333333333,3
+Blackwood,Burgers,1,4.0,1
+Blue Bell,Farmers Market,0,4.0,2
+Blue Bell,Food,0,4.5,2
+Blue Bell,Home Services,0,1.0,1
+Blue Bell,Home Services,1,1.0,1
+Blue Bell,Nail Salons,0,5.0,1
+Blue Bell,Nightlife,0,5.0,3
+Blue Bell,Nightlife,1,3.0,1
+Blue Bell,Thai,0,4.0,7
+Blue Bell,Thai,1,4.0,3
+Boise,American (New),0,4.0,1
+Boise,American (Traditional),0,3.0,1
+Boise,American (Traditional),1,3.0,2
+Boise,Bars,0,4.5,2
+Boise,Bars,1,4.0,1
+Boise,Breakfast & Brunch,0,4.1,10
+Boise,Breakfast & Brunch,1,2.5,2
+Boise,Coffee & Tea,0,5.0,1
+Boise,Event Planning & Services,0,4.0,1
+Boise,Fashion,0,4.5,2
+Boise,Fast Food,1,4.0,1
+Boise,Food,0,4.666666666666667,3
+Boise,Food Delivery Services,0,5.0,1
+Boise,Hotels,1,4.0,1
+Boise,Hotels & Travel,0,3.5,2
+Boise,Jewelry,0,3.0,1
+Boise,Landmarks & Historical Buildings,0,3.0,1
+Boise,Mediterranean,0,2.0,1
+Boise,Mediterranean,1,5.0,1
+Boise,Mexican,0,2.3333333333333335,3
+Boise,Pizza,0,5.0,1
+Boise,Restaurants,0,2.5,4
+Boise,Restaurants,1,4.75,4
+Boise,Salad,0,3.0,1
+Boise,Sandwiches,0,4.0,1
+Boise,Sandwiches,1,5.0,1
+Boise,Specialty Food,0,2.5,2
+Boise,Vegan,0,5.0,2
+Boise,Vegan,1,3.0,2
+Boise,Vietnamese,0,4.666666666666667,3
+Boise,Vietnamese,1,4.0,2
+Boothwyn,Food,0,5.0,3
+Boothwyn,Food,1,4.333333333333333,3
+Boothwyn,Thai,0,4.0,1
+Boothwyn,Thai,1,2.0,1
+Bordentown,Coffee & Tea,0,5.0,1
+Boyertown,Pizza,1,5.0,1
+Brandon,Auto Repair,0,5.0,1
+Brandon,Bagels,0,4.0,2
+Brandon,Bars,0,4.0,3
+Brandon,Bars,1,3.0,3
+Brandon,Coffee & Tea,0,1.0,1
+Brandon,Drugstores,0,4.0,2
+Brandon,Fashion,0,5.0,2
+Brandon,Fashion,1,5.0,2
+Brandon,Fast Food,0,3.0,1
+Brandon,Fast Food,1,5.0,1
+Brandon,Food,1,1.0,1
+Brandon,Korean,0,2.0,1
+Brandon,Korean,1,3.0,1
+Brandon,Nightlife,0,5.0,2
+Brandon,Restaurants,0,4.333333333333333,9
+Brandon,Restaurants,1,4.0,3
+Brandon,Sandwiches,0,4.333333333333333,3
+Brandon,Sandwiches,1,5.0,1
+Brandon,Thai,0,5.0,1
+Brandon,Thai,1,2.5,2
+Brandon,Tires,0,5.0,1
+Brandon,Tires,1,3.0,1
+Brentwood,American (Traditional),0,3.2,5
+Brentwood,American (Traditional),1,4.0,2
+Brentwood,Automotive,1,4.0,1
+Brentwood,Chicken Wings,0,4.0,1
+Brentwood,Chicken Wings,1,2.0,1
+Brentwood,Chinese,0,4.0,1
+Brentwood,Drugstores,0,2.5,2
+Brentwood,Drugstores,1,4.0,1
+Brentwood,Event Planning & Services,0,4.0,1
+Brentwood,Event Planning & Services,1,3.0,1
+Brentwood,Food,0,5.0,2
+Brentwood,Japanese,0,4.333333333333333,12
+Brentwood,Japanese,1,5.0,2
+Brentwood,Mexican,0,3.5,4
+Brentwood,Mexican,1,3.5,2
+Brentwood,Oil Change Stations,0,5.0,1
+Brentwood,Oil Change Stations,1,1.0,1
+Brentwood,Pediatricians,0,5.0,1
+Brentwood,Pet Services,0,5.0,1
+Brentwood,Restaurants,0,5.0,3
+Brentwood,Restaurants,1,2.0,1
+Brentwood,Sandwiches,0,2.0,1
+Brentwood,Sandwiches,1,5.0,1
+Bridgeport,Restaurants,0,3.75,4
+Bridgeport,Restaurants,1,2.3333333333333335,3
+Bridgeton,American (Traditional),0,5.0,1
+Bridgeton,Mexican,0,4.0,1
+Bridgeton,Restaurants,0,2.0,1
+Bristol,Food,1,2.0,1
+Bristol,Local Flavor,0,4.0,1
+Brookhaven,Restaurants,0,3.0,2
+Brookhaven,Restaurants,1,4.0,3
+Brooklawn,Bars,0,5.0,1
+Broomall,Auto Repair,0,2.6666666666666665,3
+Broomall,Event Planning & Services,0,5.0,1
+Broomall,Hair Salons,0,5.0,1
+Broomall,Mexican,1,4.0,3
+Broomall,Pizza,0,3.0,1
+Broomall,Restaurants,0,3.5,4
+Broomall,Restaurants,1,2.5,2
+Bryn Mawr,Bars,0,4.0,1
+Bryn Mawr,Bars,1,4.0,1
+Bryn Mawr,Desserts,0,5.0,1
+Bryn Mawr,Desserts,1,4.0,1
+Bryn Mawr,Health & Medical,0,4.0,1
+Bryn Mawr,Irish Pub,0,4.0,2
+Bryn Mawr,Irish Pub,1,4.0,1
+Bryn Mawr,Italian,0,4.125,8
+Bryn Mawr,Italian,1,3.6,5
+Bryn Mawr,Pizza,0,4.0,1
+Bryn Mawr,Pizza,1,5.0,1
+Bryn Mawr,Restaurants,0,4.0,1
+Bryn Mawr,Seafood,0,4.0,3
+Bryn Mawr,Seafood,1,4.333333333333333,3
+Bryn Mawr,Waxing,0,4.5,2
+Buckingham,Restaurants,0,3.3333333333333335,3
+Buckingham,Restaurants,1,4.0,1
+Burlington,Car Dealers,0,1.0,1
+Burlington,Car Dealers,1,2.0,1
+Burlington,Diners,0,2.5,2
+Burlington,Diners,1,1.0,1
+Burlington,Irish,1,4.0,2
+Bywater,Breakfast & Brunch,0,5.0,2
+Camden,Juice Bars & Smoothies,0,4.0,1
+Camden,Juice Bars & Smoothies,1,4.0,1
+Carmel,Active Life,1,5.0,1
+Carmel,American (New),0,4.0,1
+Carmel,American (Traditional),0,4.0,11
+Carmel,American (Traditional),1,4.3,10
+Carmel,Bagels,0,3.5,2
+Carmel,Bars,0,4.25,4
+Carmel,Buffets,0,3.0,1
+Carmel,Cafes,0,4.75,4
+Carmel,Cycling Classes,0,5.0,3
+Carmel,Cycling Classes,1,5.0,1
+Carmel,Delis,0,3.0,2
+Carmel,Desserts,1,5.0,1
+Carmel,Donuts,1,3.0,1
+Carmel,Fast Food,0,2.0,1
+Carmel,Fast Food,1,2.0,1
+Carmel,Food,0,3.75,8
+Carmel,Food,1,4.5,2
+Carmel,Hair Salons,0,3.5,2
+Carmel,Ice Cream & Frozen Yogurt,0,4.5,2
+Carmel,Local Services,0,4.0,1
+Carmel,Nightlife,0,3.5,8
+Carmel,Pakistani,0,4.4,5
+Carmel,Pakistani,1,4.5,2
+Carmel,Restaurants,0,3.6,10
+Carmel,Restaurants,1,3.8,5
+Carmel,Skin Care,0,5.0,1
+Carmel,Tires,0,4.0,1
+Carpinteria,Active Life,0,5.0,1
+Carpinteria,American (Traditional),0,3.75,4
+Carpinteria,American (Traditional),1,5.0,1
+Carpinteria,Botanical Gardens,0,5.0,1
+Carpinteria,Grocery,0,3.6666666666666665,3
+Carpinteria,Restaurants,0,3.6,5
+Carpinteria,Sandwiches,0,4.0,1
+Carrollwood,Chicken Wings,0,3.5,2
+Chadds Ford,Art Galleries,1,5.0,1
+Chadds Ford,Breakfast & Brunch,1,2.0,1
+Chadds Ford,Pizza,0,4.0,2
+Chalfont,Japanese,1,5.0,1
+Chalfont,Pizza,0,4.0,1
+Chalfont,Restaurants,0,2.0,2
+Cheltenham,Massage Therapy,0,5.0,1
+Cherry Hill,Active Life,0,5.0,1
+Cherry Hill,Arts & Entertainment,0,3.5,6
+Cherry Hill,Arts & Entertainment,1,2.0,1
+Cherry Hill,Auto Detailing,0,3.3333333333333335,3
+Cherry Hill,Auto Detailing,1,4.0,1
+Cherry Hill,Automotive,0,5.0,1
+Cherry Hill,Bakeries,0,5.0,2
+Cherry Hill,Bakeries,1,5.0,1
+Cherry Hill,Beauty & Spas,0,3.0,1
+Cherry Hill,Breakfast & Brunch,0,3.6666666666666665,3
+Cherry Hill,Breakfast & Brunch,1,3.5,4
+Cherry Hill,Cajun/Creole,0,5.0,1
+Cherry Hill,Desserts,0,3.75,8
+Cherry Hill,Desserts,1,3.8,5
+Cherry Hill,Gyms,0,3.0,1
+Cherry Hill,Home & Garden,0,4.0,1
+Cherry Hill,Home & Garden,1,1.0,1
+Cherry Hill,Hotels & Travel,1,1.0,1
+Cherry Hill,Italian,0,4.333333333333333,6
+Cherry Hill,Italian,1,5.0,2
+Cherry Hill,Japanese,0,2.6666666666666665,3
+Cherry Hill,Japanese,1,3.0,2
+Cherry Hill,Korean,0,3.5,6
+Cherry Hill,Korean,1,2.0,1
+Cherry Hill,Local Services,0,4.0,1
+Cherry Hill,Massage Therapy,0,4.0,1
+Cherry Hill,Pets,1,1.0,1
+Cherry Hill,Public Services & Government,0,4.0,1
+Cherry Hill,Restaurants,0,4.052631578947368,19
+Cherry Hill,Restaurants,1,4.083333333333333,12
+Cherry Hill,Seafood,0,3.0,1
+Cherry Hill,Shopping,0,4.0,2
+Cherry Hill,Shopping,1,4.5,2
+Cherry Hill,Southern,0,3.75,4
+Cherry Hill,Southern,1,3.0,1
+Cherry Hill,Specialty Food,1,3.5,2
+Chester,Caribbean,0,4.0,1
+Chester,Caribbean,1,4.0,1
+Chester,Restaurants,1,2.5,2
+Chester Springs,Event Planning & Services,1,2.0,1
+Chester Springs,Food,0,3.0,1
+Chester Springs,Food,1,5.0,1
+Chester Springs,Pizza,0,2.0,1
+Chester Springs,Sandwiches,0,3.0,1
+Chesterfield,American (New),0,4.166666666666667,6
+Chesterfield,American (New),1,4.333333333333333,3
+Chesterfield,Delis,0,2.0,1
+Chesterfield,Japanese,0,4.0,1
+Chesterfield,Mediterranean,0,5.0,1
+Chesterfield,Mediterranean,1,5.0,3
+Chesterfield,Sports Bars,0,3.0,1
+Cinnaminson,Active Life,0,3.6666666666666665,3
+Claymont,Restaurants,0,4.0,1
+Claymont,Restaurants,1,5.0,1
+Clayton,Diners,0,5.0,2
+Clayton,Diners,1,5.0,1
+Clayton,Food,0,3.6666666666666665,6
+Clayton,Food,1,4.125,8
+Clayton,Italian,0,4.0,2
+Clayton,Italian,1,5.0,1
+Clayton,Resorts,0,4.5,2
+Clayton,Restaurants,0,4.833333333333333,6
+Clayton,Restaurants,1,4.0,2
+Clayton,Waxing,0,2.6666666666666665,3
+Clayton,Waxing,1,4.5,2
+Clearwater,Accessories,0,1.0,2
+Clearwater,American (New),0,4.666666666666667,9
+Clearwater,American (New),1,5.0,3
+Clearwater,American (Traditional),0,3.0,1
+Clearwater,American (Traditional),1,4.0,1
+Clearwater,Auto Parts & Supplies,0,5.0,1
+Clearwater,Breakfast & Brunch,0,3.0,2
+Clearwater,Chicken Wings,0,2.0,2
+Clearwater,Chicken Wings,1,1.0,1
+Clearwater,Ethnic Food,0,2.6,5
+Clearwater,Ethnic Food,1,3.0,1
+Clearwater,Event Planning & Services,0,3.75,4
+Clearwater,Fast Food,0,3.1666666666666665,6
+Clearwater,Hair Salons,0,5.0,1
+Clearwater,Hardware Stores,1,5.0,1
+Clearwater,Home & Garden,1,5.0,1
+Clearwater,Hot Dogs,0,2.0,1
+Clearwater,Mattresses,0,5.0,1
+Clearwater,Medical Centers,0,5.0,1
+Clearwater,Mexican,0,4.0,1
+Clearwater,Nightlife,1,4.0,1
+Clearwater,Pubs,0,5.0,3
+Clearwater,Pubs,1,4.0,1
+Clearwater,Restaurants,0,3.8,15
+Clearwater,Restaurants,1,3.2857142857142856,7
+Clearwater,Salad,0,5.0,3
+Clearwater,Salad,1,4.75,8
+Clearwater,Sandwiches,0,4.5,4
+Clearwater,Sandwiches,1,4.0,2
+Clearwater,Vietnamese,0,4.0,1
+Clearwater Beach,American (Traditional),0,3.0,1
+Clearwater Beach,Dance Clubs,0,4.0,1
+Clearwater Beach,Food,0,3.25,8
+Clearwater Beach,Food,1,4.0,4
+Clearwater Beach,Hotels & Travel,0,4.0,8
+Clearwater Beach,Restaurants,0,3.0,1
+Clearwater Beach,Restaurants,1,4.0,1
+Clementon,Bars,0,5.0,1
+Clementon,Mexican,1,4.0,1
+Clifton Heights,Automotive,1,3.0,1
+Clifton Heights,Soup,0,4.5,2
+Collegeville,Food,0,4.5,2
+Collegeville,Food,1,2.0,1
+Collegeville,Restaurants,0,2.75,4
+Collegeville,Restaurants,1,4.0,1
+Collingdale,Beer,0,4.0,1
+Collingswood,American (New),0,3.0,2
+Collingswood,American (New),1,2.0,1
+Collingswood,American (Traditional),0,4.5,2
+Collingswood,American (Traditional),1,4.125,8
+Collingswood,Barbers,0,5.0,1
+Collingswood,Barbers,1,5.0,1
+Collingswood,Food,0,4.428571428571429,7
+Collingswood,Food,1,2.0,1
+Collingswood,Japanese,0,4.0,2
+Collingswood,Parks,0,4.0,1
+Collinsville,Mexican,1,2.0,1
+Colmar,Auto Parts & Supplies,0,1.0,1
+Colmar,Automotive,0,5.0,1
+Columbia,Beer,0,5.0,1
+Columbia,Beer,1,4.0,1
+Columbia,Thai,0,5.0,1
+Conshohocken,Auto Repair,0,3.6666666666666665,3
+Conshohocken,Boot Camps,0,5.0,1
+Conshohocken,Caterers,0,4.0,1
+Conshohocken,Ice Cream & Frozen Yogurt,0,1.0,1
+Conshohocken,Italian,0,3.0,2
+Conshohocken,Italian,1,3.0,1
+Conshohocken,Japanese,0,4.0,1
+Conshohocken,Japanese,1,2.0,1
+Conshohocken,Restaurants,0,3.3333333333333335,3
+Conshohocken,Restaurants,1,2.5,2
+Creve Coeur,Comfort Food,0,3.5,2
+Creve Coeur,Comfort Food,1,3.5,2
+Creve Coeur,Fast Food,1,5.0,1
+Creve Coeur,Restaurants,0,4.0,1
+Creve Coeur,Salad,0,4.5,2
+Creve Coeur,Salad,1,4.5,2
+Creve Coeur,Vietnamese,0,4.5,4
+Dade City,Arts & Entertainment,0,4.0,1
+Delran,Nightlife,1,5.0,1
+Deptford,Do-It-Yourself Food,1,4.0,2
+Des Peres,Candy Stores,0,4.0,1
+Des Peres,Fashion,0,4.0,2
+Des Peres,Restaurants,0,5.0,1
+Des Peres,Salad,1,4.0,1
+Des Peres,Shopping,0,3.0,1
+Des Peres,Steakhouses,0,4.333333333333333,6
+Devon,Food,0,2.3333333333333335,3
+Downingtown,Event Planning & Services,0,3.0,2
+Downingtown,Gluten-Free,0,3.0,3
+Downingtown,Gluten-Free,1,5.0,1
+Downingtown,Nightlife,0,3.0,2
+Downingtown,Nightlife,1,5.0,1
+Doylestown,American (New),0,4.5,2
+Doylestown,Automotive,0,2.0,2
+Doylestown,Breakfast & Brunch,0,5.0,1
+Doylestown,Breakfast & Brunch,1,2.0,2
+Doylestown,Candy Stores,0,4.5,2
+Doylestown,Event Planning & Services,0,4.333333333333333,3
+Doylestown,Food,0,4.0,3
+Doylestown,Food,1,3.5,2
+Doylestown,Juice Bars & Smoothies,0,5.0,2
+Doylestown,Juice Bars & Smoothies,1,5.0,1
+Doylestown,Local Flavor,0,4.0,2
+Doylestown,Restaurants,0,3.5,6
+Doylestown,Restaurants,1,4.5,2
+Drexel Hill,Couriers & Delivery Services,1,2.0,1
+Drexel Hill,Event Planning & Services,0,4.0,1
+Drexel Hill,Event Planning & Services,1,3.0,1
+Drexel Hill,Health & Medical,0,3.0,1
+Drexel Hill,Physical Therapy,0,3.0,2
+Drexel Hill,Physical Therapy,1,4.0,1
+Drexel Hill,Restaurants,0,3.6666666666666665,3
+Drexel Hill,Restaurants,1,1.0,1
+Drexel Hill,Sewing & Alterations,1,5.0,1
+Dunedin,American (New),1,4.0,1
+Dunedin,Bars,0,3.5714285714285716,7
+Dunedin,Bars,1,4.5,4
+Dunedin,Chinese,0,2.3333333333333335,3
+Dunedin,Coffee & Tea,1,5.0,1
+Dunedin,Delis,0,2.0,1
+Dunedin,Poke,0,4.0,2
+Dunedin,Poke,1,4.666666666666667,3
+Dunedin,Restaurants,0,1.0,1
+Dunedin,Restaurants,1,4.333333333333333,3
+Dunedin,Seafood,0,2.0,1
+Dunedin,Specialty Food,0,4.0,1
+Eagle,Food,0,2.0,1
+Eagleville,American (Traditional),0,2.25,4
+Earth City,Restaurants,0,4.0,1
+East Alton,Burgers,0,3.0,1
+East Alton,Burgers,1,3.0,1
+East Norriton,Automotive,0,3.0,2
+East Norriton,Bowling,0,4.0,1
+East Norriton,Food,0,3.0,1
+East Norriton,Food,1,4.0,1
+East Norriton,Restaurants,1,3.5,2
+East Norriton,Yoga,0,3.0,1
+East Norriton,Yoga,1,2.5,2
+Eddystone,Restaurants,0,4.5,2
+Edmonton,Active Life,0,4.142857142857143,7
+Edmonton,Active Life,1,3.0,1
+Edmonton,American (Traditional),0,2.75,4
+Edmonton,American (Traditional),1,3.0,1
+Edmonton,Arts & Entertainment,0,4.0,3
+Edmonton,Automotive,0,4.0,1
+Edmonton,Bakeries,0,4.142857142857143,7
+Edmonton,Bakeries,1,4.5,2
+Edmonton,Bars,0,3.5,6
+Edmonton,Bars,1,3.0,2
+Edmonton,Beauty & Spas,0,4.5,2
+Edmonton,Beauty & Spas,1,5.0,1
+Edmonton,Beer,0,4.6,5
+Edmonton,Beer,1,4.0,1
+Edmonton,Bowling,0,4.0,3
+Edmonton,Bowling,1,3.0,1
+Edmonton,Breakfast & Brunch,0,4.0,5
+Edmonton,Breakfast & Brunch,1,3.0,2
+Edmonton,Butcher,0,5.0,1
+Edmonton,Canadian (New),0,4.5,2
+Edmonton,Chicken Wings,0,3.0,2
+Edmonton,Chicken Wings,1,4.0,1
+Edmonton,Chinese,0,3.5555555555555554,9
+Edmonton,Chinese,1,4.0,2
+Edmonton,Coffee & Tea,0,3.8,15
+Edmonton,Coffee & Tea,1,4.142857142857143,7
+Edmonton,Comedy Clubs,0,3.0,1
+Edmonton,Comedy Clubs,1,2.0,1
+Edmonton,Customized Merchandise,0,2.0,1
+Edmonton,Dance Studios,0,3.0,1
+Edmonton,Dance Studios,1,5.0,1
+Edmonton,Delis,0,4.0,2
+Edmonton,Dim Sum,0,4.0,2
+Edmonton,Dim Sum,1,3.0,1
+Edmonton,Diners,0,4.0,1
+Edmonton,Dive Bars,0,3.0,1
+Edmonton,Donairs,0,4.5,4
+Edmonton,Donairs,1,4.0,1
+Edmonton,Dry Cleaning & Laundry,0,4.0,1
+Edmonton,Escape Games,0,5.0,1
+Edmonton,Fashion,0,4.2,5
+Edmonton,Fashion,1,3.0,2
+Edmonton,Fast Food,0,3.25,8
+Edmonton,Fast Food,1,4.0,1
+Edmonton,Food,0,4.111111111111111,18
+Edmonton,Food,1,3.875,8
+Edmonton,Fruits & Veggies,0,4.0,3
+Edmonton,Fruits & Veggies,1,2.5,2
+Edmonton,Furniture Stores,0,4.5,2
+Edmonton,Furniture Stores,1,5.0,1
+Edmonton,Gastropubs,0,4.5,2
+Edmonton,German,0,5.0,1
+Edmonton,Grocery,0,4.0,3
+Edmonton,Health & Medical,0,4.5,2
+Edmonton,Home & Garden,0,4.0,5
+Edmonton,Home & Garden,1,3.75,4
+Edmonton,Hot Dogs,0,2.0,1
+Edmonton,Ice Cream & Frozen Yogurt,0,5.0,1
+Edmonton,Indian,0,3.5,4
+Edmonton,Indian,1,2.0,1
+Edmonton,International,0,4.0,1
+Edmonton,Italian,0,3.857142857142857,7
+Edmonton,Italian,1,4.0,2
+Edmonton,Japanese,0,3.0,2
+Edmonton,Japanese,1,4.0,1
+Edmonton,Jazz & Blues,0,3.5,2
+Edmonton,Jazz & Blues,1,3.0,1
+Edmonton,Juice Bars & Smoothies,1,5.0,1
+Edmonton,Kitchen & Bath,0,4.5,2
+Edmonton,Kitchen & Bath,1,5.0,1
+Edmonton,Landmarks & Historical Buildings,0,4.333333333333333,3
+Edmonton,Mexican,0,4.0,2
+Edmonton,Middle Eastern,0,3.6666666666666665,3
+Edmonton,Museums,0,5.0,1
+Edmonton,Museums,1,3.0,1
+Edmonton,Music & DVDs,0,4.333333333333333,3
+Edmonton,Music & DVDs,1,5.0,1
+Edmonton,Nightlife,0,4.0,5
+Edmonton,Nightlife,1,4.0,1
+Edmonton,Organic Stores,0,4.0,1
+Edmonton,Organic Stores,1,4.333333333333333,3
+Edmonton,Personal Shopping,0,4.0,1
+Edmonton,Pets,0,3.5,2
+Edmonton,Pizza,0,4.5,2
+Edmonton,Pizza,1,4.0,1
+Edmonton,Restaurants,0,3.973684210526316,38
+Edmonton,Restaurants,1,4.0588235294117645,17
+Edmonton,Sewing & Alterations,0,4.5,2
+Edmonton,Shopping,0,3.5555555555555554,9
+Edmonton,Shopping,1,2.857142857142857,7
+Edmonton,Specialty Food,0,4.0,6
+Edmonton,Sports Bars,0,2.0,1
+Edmonton,Sports Bars,1,3.5,2
+Edmonton,Sushi Bars,0,4.0,1
+Edmonton,Sushi Bars,1,3.3333333333333335,3
+Edmonton,Tea Rooms,0,5.0,1
+Edmonton,Turkish,0,4.0,1
+Edmonton,Used,0,3.0,2
+Edmonton,Used,1,4.0,1
+Edmonton,Vietnamese,0,4.0,2
+Edmonton,Vietnamese,1,3.0,1
+Edmonton,Waxing,0,4.0,1
+Edmonton,Wholesale Stores,0,3.3333333333333335,3
+Edmonton,Women's Clothing,0,3.0,2
+Edmonton,Women's Clothing,1,3.0,1
+Edwardsville,Asian Fusion,0,4.666666666666667,3
+Edwardsville,Bars,0,5.0,1
+Edwardsville,Convenience Stores,0,5.0,1
+Edwardsville,Restaurants,0,4.0,3
+Edwardsville,Restaurants,1,2.5,2
+Elkins Park,Chinese,0,3.0,4
+Elkins Park,Chinese,1,2.0,1
+Elkins Park,Food,0,5.0,1
+Elkins Park,Pizza,0,4.0,1
+Elkins Park,Pizza,1,5.0,1
+Elmer,Campgrounds,0,2.0,1
+Essington,Restaurants,0,3.0,2
+Ewing,Laundry Services,0,5.0,1
+Exton,American (Traditional),0,4.0,6
+Exton,American (Traditional),1,3.6666666666666665,3
+Exton,Department Stores,0,3.0,1
+Exton,Nightlife,0,4.25,4
+Exton,Nightlife,1,3.2,5
+Exton,Restaurants,0,3.6,15
+Exton,Restaurants,1,3.8,5
+Exton,Sandwiches,0,5.0,1
+Fairless Hills,Sandwiches,1,3.0,1
+Fairless Hills,Windshield Installation & Repair,1,4.0,1
+Fairview Heights,American (Traditional),0,3.0,3
+Fairview Heights,Comfort Food,0,3.75,4
+Fairview Heights,Comfort Food,1,3.0,1
+Fairview Heights,Event Planning & Services,0,4.6,5
+Fairview Heights,Salad,0,3.75,4
+Fairview Heights,Seafood,0,3.0,1
+Fairview Heights,Seafood,1,3.0,1
+Feasterville,Arts & Entertainment,0,2.0,1
+Feasterville,Breakfast & Brunch,0,1.0,1
+Feasterville,Breakfast & Brunch,1,4.0,1
+Feasterville,Nail Salons,1,3.0,1
+Feasterville,Shopping,0,4.0,1
+Feasterville Trevose,Restaurants,0,4.0,1
+Feasterville-Trevose,Local Services,0,1.0,1
+Feasterville-Trevose,Mexican,0,4.0,2
+Fenton,Desserts,0,4.0,1
+Fenton,Restaurants,0,1.0,1
+Fenton,Restaurants,1,4.0,2
+Fenton,Salad,1,4.0,1
+Fenton,Sporting Goods,0,5.0,2
+Fenton,Sports Wear,1,3.0,1
+Fishers,Active Life,0,5.0,1
+Fishers,American (Traditional),0,4.0,2
+Fishers,American (Traditional),1,4.0,1
+Fishers,Asian Fusion,0,4.0,1
+Fishers,Automotive,0,4.5,2
+Fishers,Beauty & Spas,0,5.0,1
+Fishers,Festivals,0,5.0,1
+Fishers,Festivals,1,4.0,2
+Fishers,Landscaping,0,4.0,1
+Fishers,Landscaping,1,5.0,1
+Fishers,Libraries,0,2.0,1
+Fishers,Libraries,1,4.0,1
+Fishers,Mexican,0,3.8,5
+Fishers,Mexican,1,2.3333333333333335,3
+Fishers,Pet Training,0,5.0,1
+Fishers,Pizza,0,3.8333333333333335,6
+Fishers,Pizza,1,3.6666666666666665,3
+Fishers,Restaurants,0,3.2,15
+Fishers,Restaurants,1,4.5,2
+Fishers,Sandwiches,0,3.8,5
+Florissant,American (Traditional),0,4.625,8
+Florissant,Restaurants,0,4.0,1
+Florissant,Restaurants,1,3.0,1
+Florissant,Thai,0,4.5,2
+Florissant,Vietnamese,0,5.0,1
+Flourtown,Mexican,0,3.0,1
+Flourtown,Tires,0,4.0,1
+Folsom,Burgers,0,3.5,2
+Folsom,Day Spas,0,3.0,1
+Fort Washington,Pizza,0,2.6666666666666665,3
+Franklin,American (New),0,2.0,1
+Franklin,American (Traditional),0,2.857142857142857,7
+Franklin,American (Traditional),1,2.5714285714285716,7
+Franklin,Bakeries,0,4.0,1
+Franklin,Bakeries,1,2.0,1
+Franklin,Barbeque,0,4.333333333333333,9
+Franklin,Barbeque,1,3.5,4
+Franklin,Bars,0,4.181818181818182,11
+Franklin,Bars,1,3.3333333333333335,3
+Franklin,Beauty & Spas,0,3.0,2
+Franklin,Breakfast & Brunch,0,2.75,4
+Franklin,Breakfast & Brunch,1,2.5,2
+Franklin,Burgers,0,3.2,10
+Franklin,Burgers,1,1.0,1
+Franklin,Fashion,1,3.0,1
+Franklin,Food,0,3.6666666666666665,3
+Franklin,Food,1,2.0,1
+Franklin,Grocery,0,5.0,1
+Franklin,Gyms,0,4.0,1
+Franklin,Meat Shops,0,4.0,1
+Franklin,Mexican,0,3.0,2
+Franklin,Noodles,0,2.0,2
+Franklin,Noodles,1,5.0,1
+Franklin,Pizza,0,3.0,2
+Franklin,Restaurants,0,4.142857142857143,7
+Franklin,Restaurants,1,4.0,5
+Franklin,Shoe Stores,0,3.0,1
+Franklin,Skin Care,0,1.0,1
+Franklin,Soup,0,1.0,1
+Franklin,Sporting Goods,0,3.5,2
+Franklin,Steakhouses,0,3.5,4
+Franklin,Steakhouses,1,3.6,5
+Frazer,Restaurants,1,1.0,1
+Frontenac,Food,0,3.0,2
+Frontenac,Food,1,5.0,1
+Frontenac,Specialty Food,0,3.5,2
+Furlong,Diners,1,5.0,1
+Gallatin,Mexican,0,4.0,4
+Gallatin,Restaurants,0,3.0,1
+Gallatin,Restaurants,1,4.0,2
+Garden City,Nightlife,0,4.0,1
+Garden City,Nightlife,1,3.0,1
+Glassboro,Food,0,1.0,1
+Glassboro,Food,1,5.0,1
+Glassboro,Italian,0,4.0,2
+Glassboro,Japanese,0,5.0,2
+Glassboro,Pubs,0,3.2,5
+Glassboro,Restaurants,0,2.0,1
+Glen Mills,Food,0,4.0,1
+Glen Mills,Food,1,4.0,1
+Glen Mills,Grocery,0,5.0,1
+Glendora,Comfort Food,0,5.0,1
+Glenolden,American (Traditional),0,3.0,1
+Glenolden,American (Traditional),1,1.0,1
+Glenolden,Grocery,0,3.0,1
+Glenside,Bars,0,4.0,1
+Glenside,Bars,1,2.5,2
+Glenside,Beer,1,4.0,1
+Glenside,Restaurants,0,4.333333333333333,3
+Glenside,Restaurants,1,3.3333333333333335,3
+Gloucester Township,Dog Parks,0,4.666666666666667,3
+Gloucester Township,Food,0,2.0,1
+Goleta,Acai Bowls,0,5.0,1
+Goleta,Auto Repair,0,5.0,1
+Goleta,Automotive,0,3.3333333333333335,3
+Goleta,Burgers,0,4.0,2
+Goleta,Burgers,1,4.0,1
+Goleta,Chicken Wings,1,1.0,1
+Goleta,Dive Bars,0,4.0,1
+Goleta,Fast Food,0,4.666666666666667,6
+Goleta,Fast Food,1,4.666666666666667,3
+Goleta,Food,0,3.3333333333333335,3
+Goleta,Food,1,3.5,2
+Goleta,Italian,1,4.0,1
+Goleta,Restaurants,0,3.7,10
+Goleta,Restaurants,1,3.3333333333333335,3
+Goleta,Sandwiches,0,4.333333333333333,3
+Goleta,Sandwiches,1,5.0,1
+Goleta,Shopping,0,2.0,3
+Goleta,Shopping,1,1.0,1
+Goleta,Sushi Bars,0,4.0,1
+Goleta,Sushi Bars,1,3.0,1
+Goleta,Thai,1,3.0,1
+Goleta,Transmission Repair,0,5.0,1
+Goodlettsville,Bars,0,2.0,1
+Goodlettsville,Bars,1,1.0,1
+Goodlettsville,Event Planning & Services,0,4.0,1
+Goodlettsville,Food,0,4.75,4
+Goodlettsville,Food,1,5.0,2
+Goodlettsville,Hobby Shops,0,5.0,1
+Goodlettsville,Japanese,0,4.0,1
+Goodlettsville,Local Services,1,5.0,2
+Granite City,American (Traditional),1,4.0,1
+Granite City,Sandwiches,0,5.0,1
+Granite City,Sandwiches,1,5.0,1
+Greenbrier,Caterers,0,5.0,1
+Greenwood,Bagels,0,4.0,1
+Greenwood,Burgers,0,4.0,2
+Greenwood,Burgers,1,3.0,1
+Greenwood,Cupcakes,0,4.0,1
+Greenwood,Department Stores,0,4.333333333333333,3
+Greenwood,Department Stores,1,5.0,1
+Greenwood,Fast Food,0,5.0,1
+Greenwood,Oil Change Stations,0,5.0,1
+Greenwood,Oil Change Stations,1,1.0,1
+Greenwood,Ophthalmologists,0,1.0,1
+Greenwood,Restaurants,0,3.5,4
+Greenwood,Restaurants,1,3.0,1
+Greenwood,Sandwiches,0,5.0,2
+Greenwood,Specialty Food,1,4.0,1
+Greenwood,Water Parks,1,4.5,2
+Gretna,American (Traditional),0,4.0,2
+Gretna,Chicken Wings,0,3.3333333333333335,3
+Gretna,Grocery,0,4.0,1
+Gretna,Grocery,1,3.0,1
+Gretna,Hotels,0,4.0,1
+Gretna,Hotels,1,5.0,1
+Gretna,Restaurants,0,2.5,2
+Gretna,Sandwiches,0,4.0,1
+Gulfport,Breakfast & Brunch,0,3.0,1
+Gulfport,Breakfast & Brunch,1,4.0,1
+Haddon Heights,Coffee & Tea,0,4.5,2
+Haddon Township,Grocery,0,3.75,4
+Haddon Township,Grocery,1,4.5,2
+Haddonfield,Caterers,0,4.5,2
+Haddonfield,Food,0,4.0,6
+Haddonfield,Food,1,5.0,1
+Haddonfield,Italian,0,5.0,1
+Haddonfield,Italian,1,3.5,2
+Hamilton,Restaurants,0,3.25,4
+Hamilton,Restaurants,1,5.0,1
+Hamilton Township,Restaurants,0,5.0,1
+Hamilton Township,Restaurants,1,4.0,1
+Harahan,Event Planning & Services,0,3.0,1
+Harahan,Event Planning & Services,1,5.0,1
+Harahan,Fast Food,0,2.4,5
+Harahan,Fast Food,1,4.0,1
+Harahan,Restaurants,0,4.0,2
+Harahan,Restaurants,1,3.5,2
+Harvey,Cinema,0,2.8,5
+Harvey,Cinema,1,1.5,2
+Harvey,Ice Cream & Frozen Yogurt,0,2.3333333333333335,3
+Harvey,Ice Cream & Frozen Yogurt,1,5.0,1
+Harvey,Sporting Goods,0,4.75,4
+Hatboro,American (New),0,5.0,1
+Hatboro,American (New),1,4.0,1
+Hatboro,Car Dealers,0,5.0,1
+Hatboro,Food,0,5.0,1
+Hatboro,Hair Removal,0,2.0,1
+Hatboro,Himalayan/Nepalese,0,2.0,1
+Hatfield,Restaurants,0,1.0,1
+Havertown,Auto Repair,0,5.0,1
+Havertown,Dentists,0,5.0,1
+Havertown,Food,0,4.0,4
+Havertown,Restaurants,0,5.0,1
+Hazelwood,Burgers,0,1.0,1
+Hazelwood,Cheesesteaks,0,3.3333333333333335,3
+Hendersonville,American (Traditional),0,5.0,1
+Hendersonville,Burgers,1,2.0,1
+Hendersonville,Coffee & Tea,1,3.0,1
+Hendersonville,Restaurants,0,5.0,1
+Hendersonville,Restaurants,1,3.5,2
+Hendersonville,Southern,0,5.0,1
+Hermitage,American (Traditional),0,3.0,1
+Hermitage,American (Traditional),1,5.0,1
+Hermitage,Chinese,0,3.0,1
+Hermitage,Food,0,1.0,1
+Hermitage,Food,1,5.0,1
+Hermitage,Modern European,0,4.5,2
+Hermitage,Modern European,1,4.666666666666667,3
+Hermitage,Waxing,0,5.0,1
+Hermitage,Waxing,1,4.5,2
+Hermitage,Wedding Planning,0,4.5,2
+Hernando Beach,Nightlife,0,3.0,1
+Hernando Beach,Nightlife,1,2.0,1
+Holiday,American (Traditional),0,5.0,1
+Holiday,American (Traditional),1,4.0,1
+Horsham,Comfort Food,0,4.0,1
+Horsham,Food,1,4.0,1
+Hudson,Seafood,0,4.0,2
+Hudson,Seafood,1,5.0,1
+Huntingdon Valley,Chinese,0,3.0,1
+Huntingdon Valley,Chinese,1,4.0,1
+Huntingdon Valley,Food,0,3.0,1
+Huntingdon Valley,Restaurants,1,3.0,1
+Indian Rocks Beach,Bars,0,4.0,1
+Indian Rocks Beach,Nightlife,0,3.3333333333333335,3
+Indian Rocks Beach,Nightlife,1,2.0,1
+Indian Rocks Beach,Sandwiches,0,4.0,2
+Indian Rocks Beach,Sushi Bars,0,2.0,2
+Indianapolis,Active Life,0,3.6666666666666665,3
+Indianapolis,American (New),0,3.526315789473684,19
+Indianapolis,American (New),1,3.6666666666666665,6
+Indianapolis,American (Traditional),0,3.588235294117647,17
+Indianapolis,American (Traditional),1,4.1,10
+Indianapolis,Art Schools,0,4.5,2
+Indianapolis,Arts & Crafts,0,4.333333333333333,3
+Indianapolis,Arts & Entertainment,0,4.285714285714286,7
+Indianapolis,Arts & Entertainment,1,4.5,2
+Indianapolis,Asian Fusion,0,4.5,4
+Indianapolis,Asian Fusion,1,4.0,1
+Indianapolis,Auto Parts & Supplies,0,3.0,1
+Indianapolis,Auto Repair,0,4.0,1
+Indianapolis,Automotive,0,3.2,5
+Indianapolis,Automotive,1,5.0,1
+Indianapolis,Bagels,0,4.5,2
+Indianapolis,Bakeries,0,4.428571428571429,7
+Indianapolis,Barbeque,0,4.0,8
+Indianapolis,Barbeque,1,4.0,2
+Indianapolis,Barbers,0,4.0,1
+Indianapolis,Bars,0,3.8947368421052633,38
+Indianapolis,Bars,1,3.6666666666666665,12
+Indianapolis,Beauty & Spas,0,4.25,4
+Indianapolis,Beauty & Spas,1,4.0,1
+Indianapolis,Beer,0,3.823529411764706,17
+Indianapolis,Beer,1,3.75,8
+Indianapolis,Books,0,5.0,5
+Indianapolis,Books,1,5.0,1
+Indianapolis,Breakfast & Brunch,0,3.4166666666666665,12
+Indianapolis,Breakfast & Brunch,1,4.5,2
+Indianapolis,Breweries,0,4.1875,16
+Indianapolis,Breweries,1,3.4,5
+Indianapolis,Bridal,0,5.0,1
+Indianapolis,Bridal,1,5.0,1
+Indianapolis,Buffets,0,4.0,2
+Indianapolis,Burgers,0,4.0,3
+Indianapolis,Burgers,1,3.5,2
+Indianapolis,Cafes,0,4.25,4
+Indianapolis,Cafes,1,4.0,2
+Indianapolis,Cajun/Creole,0,4.625,16
+Indianapolis,Chicken Wings,1,2.0,1
+Indianapolis,Chocolatiers & Shops,0,4.0,1
+Indianapolis,Chocolatiers & Shops,1,5.0,1
+Indianapolis,Cideries,0,4.615384615384615,13
+Indianapolis,Cideries,1,4.666666666666667,3
+Indianapolis,Coffee & Tea,0,5.0,1
+Indianapolis,Coffee & Tea,1,4.5,2
+Indianapolis,Cosmetics & Beauty Supply,0,5.0,1
+Indianapolis,Cuban,0,5.0,1
+Indianapolis,Cuban,1,1.0,1
+Indianapolis,Custom Cakes,0,5.0,1
+Indianapolis,Dance Clubs,0,4.0,1
+Indianapolis,Desserts,0,3.6666666666666665,9
+Indianapolis,Desserts,1,2.5,2
+Indianapolis,Diners,0,4.0,4
+Indianapolis,Diners,1,4.0,1
+Indianapolis,Dive Bars,0,4.0,1
+Indianapolis,Electronics,0,3.0,1
+Indianapolis,Event Planning & Services,0,4.419354838709677,31
+Indianapolis,Event Planning & Services,1,4.5,10
+Indianapolis,Fashion,0,3.25,4
+Indianapolis,Fast Food,0,3.4,10
+Indianapolis,Festivals,0,4.0,1
+Indianapolis,Festivals,1,5.0,2
+Indianapolis,Fitness & Instruction,0,4.0,1
+Indianapolis,Fitness & Instruction,1,3.0,1
+Indianapolis,Food,0,4.285714285714286,49
+Indianapolis,Food,1,4.285714285714286,21
+Indianapolis,Gastropubs,0,3.5,2
+Indianapolis,Gift Shops,0,5.0,2
+Indianapolis,Grocery,0,4.2,5
+Indianapolis,Grocery,1,4.0,1
+Indianapolis,Home Decor,0,3.6,5
+Indianapolis,Home Decor,1,3.0,1
+Indianapolis,Hotels & Travel,0,3.0,3
+Indianapolis,Hotels & Travel,1,2.0,2
+Indianapolis,Ice Cream & Frozen Yogurt,0,3.25,8
+Indianapolis,Ice Cream & Frozen Yogurt,1,4.0,1
+Indianapolis,Indian,0,4.285714285714286,7
+Indianapolis,Indian,1,3.5,2
+Indianapolis,Italian,0,4.0,5
+Indianapolis,Italian,1,1.0,1
+Indianapolis,Latin American,0,4.0,16
+Indianapolis,Latin American,1,3.7,10
+Indianapolis,Laundry Services,0,5.0,1
+Indianapolis,Local Services,0,5.0,1
+Indianapolis,Makeup Artists,0,5.0,2
+Indianapolis,Massage Therapy,0,4.0,1
+Indianapolis,Mediterranean,0,5.0,1
+Indianapolis,Mediterranean,1,3.0,1
+Indianapolis,Mexican,0,3.730769230769231,26
+Indianapolis,Mexican,1,4.0,3
+Indianapolis,Museums,0,4.3076923076923075,13
+Indianapolis,Museums,1,4.6,5
+Indianapolis,Nail Salons,1,5.0,2
+Indianapolis,Nightlife,0,3.857142857142857,21
+Indianapolis,Nightlife,1,4.0,5
+Indianapolis,Oil Change Stations,0,5.0,1
+Indianapolis,Party Supplies,0,4.5,2
+Indianapolis,Performing Arts,1,4.0,1
+Indianapolis,Pizza,0,3.4545454545454546,11
+Indianapolis,Pizza,1,3.4285714285714284,7
+Indianapolis,Professional Sports Teams,0,3.0,1
+Indianapolis,Public Transportation,0,2.5,2
+Indianapolis,Public Transportation,1,2.0,1
+Indianapolis,Pubs,0,2.0,2
+Indianapolis,Real Estate,0,4.5,2
+Indianapolis,Real Estate,1,5.0,1
+Indianapolis,Restaurants,0,3.9156626506024095,83
+Indianapolis,Restaurants,1,4.055555555555555,36
+Indianapolis,Salad,0,3.3333333333333335,3
+Indianapolis,Salad,1,5.0,1
+Indianapolis,Sandwiches,1,4.0,1
+Indianapolis,Seafood,0,2.6666666666666665,3
+Indianapolis,Seafood,1,4.0,1
+Indianapolis,Shopping,0,4.318181818181818,22
+Indianapolis,Shopping,1,4.714285714285714,7
+Indianapolis,Specialty Food,0,4.230769230769231,13
+Indianapolis,Specialty Food,1,3.625,8
+Indianapolis,Sports Bars,0,4.333333333333333,6
+Indianapolis,Sports Bars,1,2.0,2
+Indianapolis,Steakhouses,0,4.25,8
+Indianapolis,Steakhouses,1,3.0,1
+Indianapolis,Street Vendors,1,4.0,1
+Indianapolis,Sushi Bars,0,4.6,5
+Indianapolis,Sushi Bars,1,4.333333333333333,3
+Indianapolis,Thai,0,4.5,2
+Indianapolis,Thai,1,4.0,1
+Indianapolis,Used,0,4.0,1
+Indianapolis,Used,1,4.0,1
+Indianapolis,Vegan,1,5.0,1
+Indianapolis,Venues & Event Spaces,0,4.0,5
+Indianapolis,Venues & Event Spaces,1,4.0,1
+Indianapolis,Veterinarians,0,5.0,1
+Indianapolis,Vietnamese,0,4.0,3
+Indianapolis,Vietnamese,1,1.0,1
+Indianapolis,Wholesalers,0,5.0,1
+Indianpolis,Men's Clothing,1,5.0,1
+Isla Vista,Food,0,2.3333333333333335,3
+Isla Vista,Mediterranean,0,5.0,1
+Jefferson,Caterers,1,4.5,2
+Jefferson,Diners,0,3.0,2
+Jefferson,Food,0,3.5,2
+Jeffersonville,Breakfast & Brunch,0,3.0,1
+Jenkintown,Coffee & Tea,0,4.5,2
+Jenkintown,Coffee & Tea,1,4.0,4
+Jenkintown,Dive Bars,0,3.0,1
+Jenkintown,Dive Bars,1,4.0,1
+Jenkintown,Restaurants,0,4.333333333333333,6
+Jenkintown,Restaurants,1,4.0,4
+Kenner,Bakeries,0,4.0,1
+Kenner,Breakfast & Brunch,0,5.0,2
+Kenner,Diners,0,4.5,2
+Kenner,Health Markets,0,4.5,2
+Kenner,Hotels & Travel,0,3.0,1
+Kenner,Local Services,0,4.0,1
+Kenner,Pizza,0,4.0,1
+Kenner,Restaurants,0,3.7777777777777777,9
+Kenner,Restaurants,1,3.75,4
+Kenner,Seafood,0,4.0,10
+Kenner,Seafood,1,3.0,4
+Kenner,Seafood Markets,0,3.0,2
+Kennett Square,Chinese,0,3.0,1
+Kennett Square,Mexican,0,4.0,1
+Kennett Square,Restaurants,0,4.0,1
+Kennett Square,Restaurants,1,5.0,1
+Kimberton,Salad,1,5.0,2
+King Of Prussia,Barbers,0,1.0,1
+King Of Prussia,Hotels & Travel,0,4.0,1
+King Of Prussia,Indian,0,3.6666666666666665,3
+King Of Prussia,Indian,1,5.0,1
+King Of Prussia,Restaurants,0,4.5,4
+King Of Prussia,Shopping,0,4.0,4
+King of Prussia,Auto Parts & Supplies,1,1.0,1
+King of Prussia,Coffee & Tea,0,4.5,2
+King of Prussia,Coffee & Tea,1,2.0,1
+King of Prussia,Fashion,0,4.0,2
+King of Prussia,Food,0,4.0,1
+King of Prussia,Food,1,4.0,3
+King of Prussia,Middle Eastern,0,4.0,3
+King of Prussia,Middle Eastern,1,2.0,1
+King of Prussia,Office Equipment,0,4.0,1
+King of Prussia,Restaurants,0,3.6666666666666665,6
+King of Prussia,Restaurants,1,3.0,5
+King of Prussia,Shopping,0,1.0,1
+King of Prussia,Southern,0,4.0,2
+Kingston Springs,Rafting/Kayaking,0,4.0,2
+Kirkwood,Burgers,0,4.142857142857143,7
+Kirkwood,Burgers,1,4.75,4
+Lafayette Hill,Restaurants,1,4.0,1
+Lafayette Hill,Sushi Bars,0,3.0,1
+Lahaska,Cosmetics & Beauty Supply,0,4.0,1
+Lambertville,Restaurants,1,4.0,2
+Land O Lakes,Food,0,5.0,1
+Land O Lakes,Japanese,0,3.0,1
+Land O' Lakes,Chicken Wings,0,2.3333333333333335,3
+Land O' Lakes,Chicken Wings,1,2.0,1
+Land O' Lakes,Diners,0,4.0,2
+Land O' Lakes,Diners,1,2.5,2
+Land O' Lakes,Pet Services,1,5.0,1
+Land o lakes,Buffets,0,3.0,1
+Land o lakes,Buffets,1,3.0,1
+Langhorne,Active Life,0,4.0,1
+Langhorne,American (New),0,3.0,2
+Langhorne,Fashion,0,1.0,1
+Langhorne,Restaurants,1,4.0,1
+Langhorne,Steakhouses,0,3.75,4
+Langhorne,Steakhouses,1,3.0,3
+Lansdale,Pizza,0,4.0,1
+Lansdale,Restaurants,0,2.0,2
+Lansdale,Seafood,0,5.0,1
+Lansdale,Thai,0,4.5,2
+Lansdale,Thai,1,4.0,2
+Lansdale,Vegan,0,3.0,1
+Lansdowne,Grocery,0,3.0,2
+Lansdowne,Restaurants,0,2.0,1
+Largo,Active Life,0,5.0,1
+Largo,Breakfast & Brunch,0,5.0,2
+Largo,Fishing,1,5.0,1
+Largo,Food,0,3.0,1
+Largo,Food,1,3.25,4
+Largo,Heating & Air Conditioning/HVAC,0,2.0,1
+Largo,Nightlife,0,3.75,4
+Largo,Nightlife,1,4.0,2
+Largo,Pizza,0,3.0,1
+Largo,Pizza,1,4.5,2
+Largo,Poke,0,2.5,2
+Largo,Poke,1,5.0,2
+Largo,Restaurants,0,4.333333333333333,3
+Largo,Restaurants,1,4.0,3
+Lawrence,Breakfast & Brunch,0,2.0,2
+Lemay,Burgers,0,3.0,1
+Levittown,Bars,0,3.5,2
+Levittown,Chicken Wings,1,1.0,1
+Levittown,Pets,0,4.0,1
+Levittown,Sandwiches,0,3.0,1
+Levittown,Sandwiches,1,1.0,1
+Levittown,Thai,1,3.0,1
+Limerick,Urgent Care,0,5.0,1
+Lumberton,Restaurants,0,4.0,2
+Lutz,Coffee & Tea,0,4.5,2
+Lutz,Food,0,3.0,1
+Lutz,Food,1,1.0,1
+Lutz,Massage,1,3.0,1
+Lutz,Restaurants,0,4.0,4
+Lutz,Restaurants,1,2.3333333333333335,3
+Lutz,Sandwiches,0,4.5,2
+Lutz,Seafood,0,3.0,1
+Lutz,Seafood,1,3.0,1
+Madeira Beach,Boating,0,5.0,1
+Madeira Beach,Food,0,5.0,1
+Madeira Beach,Hotels,0,4.0,2
+Madeira Beach,Seafood,0,2.5,6
+Madeira Beach,Sushi Bars,0,3.5,2
+Madison,Chicken Wings,0,3.0,2
+Madison,Furniture Stores,1,3.0,1
+Madison,Pet Training,0,3.3333333333333335,3
+Madison,Restaurants,0,5.0,2
+Madison,Restaurants,1,5.0,1
+Magnolia,Automotive,0,5.0,1
+Malvern,Active Life,0,4.0,1
+Malvern,Bars,0,4.0,1
+Malvern,Burgers,0,3.5,2
+Malvern,Burgers,1,4.0,1
+Malvern,Car Dealers,1,1.0,1
+Malvern,Italian,0,4.5,2
+Malvern,Italian,1,3.5,2
+Malvern,Mexican,0,3.875,8
+Malvern,Mexican,1,3.6666666666666665,3
+Malvern,Pets,0,4.0,2
+Malvern,Pets,1,5.0,1
+Maple Shade,Automotive,1,5.0,1
+Maple Shade,Department Stores,0,3.0,1
+Maple Shade,Diners,0,4.0,1
+Maple Shade,Diners,1,4.0,1
+Maple Shade,Gas Stations,0,5.0,1
+Maple Shade Township,Restaurants,0,2.0,1
+Maple Shade Township,Restaurants,1,3.5,2
+Maplewood,American (New),0,3.75,4
+Maplewood,American (New),1,4.75,4
+Maplewood,Beauty & Spas,0,4.0,1
+Maplewood,Beauty & Spas,1,3.0,1
+Maplewood,Donuts,0,3.5555555555555554,9
+Maplewood,Donuts,1,2.6666666666666665,3
+Maplewood,Home & Garden,0,4.333333333333333,3
+Maplewood,Salad,1,4.0,2
+Marana,American (New),0,2.5,2
+Marana,Bars,0,1.0,1
+Marana,Food,0,3.6666666666666665,6
+Marana,Food,1,2.5,4
+Marana,Italian,1,5.0,1
+Marana,Mexican,1,3.0,1
+Marlton,Amusement Parks,0,4.0,1
+Marlton,Chicken Wings,0,5.0,1
+Marlton,Chinese,1,3.0,1
+Marlton,Coffee & Tea,0,4.0,2
+Marlton,Food,0,4.0,2
+Marlton,Food,1,5.0,3
+Marlton,Restaurants,0,4.0,3
+Marlton,Restaurants,1,3.0,1
+Marrero,Bakeries,0,4.0,1
+Marrero,Bakeries,1,3.5,2
+Marrero,Cajun/Creole,0,2.0,1
+Maryland Heights,Nightlife,0,3.0,1
+Maryville ,Food,0,4.0,1
+McCordsville,Grocery,0,4.0,1
+Meadowbrook,Hospitals,0,5.0,1
+Medford,Food,0,3.0,2
+Medford,Food,1,2.5,2
+Medford,Restaurants,0,3.0,1
+Medford,Sandwiches,0,5.0,2
+Media,American (New),0,4.2,5
+Media,American (New),1,4.5,2
+Media,Arts & Entertainment,0,4.0,1
+Media,Bars,0,4.0,1
+Media,Bars,1,4.0,1
+Media,Burgers,0,3.5,2
+Media,Desserts,0,4.4,5
+Media,Hardware Stores,0,3.0,2
+Media,Italian,1,4.0,1
+Media,Nail Salons,1,2.5,2
+Media,Pets,0,4.0,1
+Media,Pets,1,1.0,1
+Media,Pizza,0,3.0,3
+Media,Pizza,1,5.0,1
+Media,Restaurants,0,3.8214285714285716,28
+Media,Restaurants,1,4.111111111111111,9
+Media,Sushi Bars,0,2.0,1
+Media,Sushi Bars,1,2.0,1
+Merchantville,Restaurants,0,3.5,4
+Merchantville,Restaurants,1,4.0,1
+Meridian,Burgers,0,2.5,2
+Meridian,Burgers,1,5.0,2
+Meridian,Event Planning & Services,0,4.5,2
+Meridian,Event Planning & Services,1,4.0,3
+Meridian,Restaurants,0,4.0,1
+Metairie,American (Traditional),0,1.0,1
+Metairie,American (Traditional),1,1.0,2
+Metairie,Arts & Entertainment,0,5.0,1
+Metairie,Auto Repair,1,4.0,1
+Metairie,Bakeries,1,5.0,1
+Metairie,Beauty & Spas,0,3.0,1
+Metairie,Beauty & Spas,1,4.0,1
+Metairie,Breakfast & Brunch,1,5.0,1
+Metairie,Coffee & Tea,0,4.333333333333333,3
+Metairie,Coffee & Tea,1,4.0,3
+Metairie,Delis,0,4.0,1
+Metairie,Donuts,0,4.857142857142857,7
+Metairie,Donuts,1,3.8333333333333335,6
+Metairie,Electronics,0,5.0,1
+Metairie,Electronics,1,5.0,1
+Metairie,Fitness & Instruction,0,2.0,1
+Metairie,Food,0,4.0,3
+Metairie,Food,1,4.0,2
+Metairie,Hair Removal,0,5.0,1
+Metairie,Home Services,1,4.0,1
+Metairie,Hotels & Travel,0,3.0,1
+Metairie,Middle Eastern,0,4.0,3
+Metairie,Middle Eastern,1,4.0,1
+Metairie,Pet Stores,0,4.0,2
+Metairie,Restaurants,0,3.3333333333333335,24
+Metairie,Restaurants,1,4.333333333333333,3
+Metairie,Sandwiches,0,3.0,1
+Metairie,Sandwiches,1,4.0,1
+Metairie,Seafood,0,2.5,4
+Metairie,Shopping,0,4.0,1
+Metairie,Shopping,1,4.0,1
+Metairie,Snow Removal,0,2.0,1
+Metairie,Sushi Bars,0,2.0,1
+Metairie,Sushi Bars,1,1.0,1
+Metairie,Tires,1,1.0,1
+Metairie,Venues & Event Spaces,0,2.0,1
+Metairie,Venues & Event Spaces,1,3.0,2
+Metairie,Wine Bars,0,1.3333333333333333,3
+Mont Clare,Specialty Food,0,3.3333333333333335,3
+Montecito,Food,1,3.0,1
+Montecito,Restaurants,0,4.666666666666667,3
+Montecito,Tapas Bars,1,4.0,1
+Montgomeryville,Party & Event Planning,1,2.0,1
+Montgomeryville,Restaurants,0,2.0,1
+Montgomeryville,Restaurants,1,4.0,1
+Moorestown,Breakfast & Brunch,0,4.666666666666667,3
+Moorestown,Breakfast & Brunch,1,5.0,2
+Moorestown,Italian,0,5.0,1
+Moorestown,Restaurants,0,3.6666666666666665,3
+Moorestown,Restaurants,1,4.0,1
+Moorestown,Vegetarian,1,3.5,2
+Mooresville,Chinese,0,2.5,2
+Mooresville,Chinese,1,5.0,1
+Mooresville,Restaurants,0,3.625,8
+Mooresville,Restaurants,1,5.0,1
+Mount Juliet,Indian,0,2.5,2
+Mount Juliet,Indian,1,5.0,1
+Mount Juliet,Pizza,0,4.0,3
+Mount Laurel,Bakeries,0,3.0,1
+Mount Laurel,Bakeries,1,5.0,1
+Mount Laurel,Breakfast & Brunch,0,3.0,3
+Mount Laurel,Hotels & Travel,0,5.0,1
+Mount Laurel,Japanese,0,4.0,1
+Mount Laurel,Restaurants,0,3.6666666666666665,3
+Mount Laurel,Restaurants,1,3.0,1
+Mount Laurel,Shopping,0,3.0,1
+Mount Laurel,Zoos,0,4.0,1
+Mount Laurel Township,Veterinarians,0,3.6666666666666665,3
+Mt Juliet,Comfort Food,0,3.5,8
+Mt Juliet,Comfort Food,1,5.0,1
+Mt Juliet,Mediterranean,0,4.0,1
+Mt Juliet,Restaurants,0,4.5,2
+Mt. Juliet,Thai,0,4.0,4
+Mt. Laurel,Carpet Installation,0,1.0,1
+Mt. Laurel,Mexican,0,3.4,5
+Mt. Laurel,Mexican,1,3.0,2
+Mullica Hill,Restaurants,0,1.5,2
+Mullica Hill,Restaurants,1,3.0,3
+NASHVILLE,Food,0,4.625,8
+NASHVILLE,Food,1,4.333333333333333,3
+Narberth,American (New),0,4.0,2
+Narberth,American (New),1,4.5,2
+Narberth,Arts & Entertainment,0,3.5,2
+Narberth,Pets,1,4.0,1
+Narberth,Thai,0,3.5,2
+Narberth,Thai,1,3.6,5
+Nashville,Accessories,0,4.0,3
+Nashville,Active Life,0,5.0,3
+Nashville,American (New),0,3.5384615384615383,13
+Nashville,American (New),1,4.0,4
+Nashville,American (Traditional),0,4.176470588235294,17
+Nashville,American (Traditional),1,4.0,6
+Nashville,Arts & Entertainment,1,1.0,1
+Nashville,Automotive,0,3.857142857142857,7
+Nashville,Automotive,1,5.0,1
+Nashville,Bagels,1,4.0,2
+Nashville,Bakeries,0,5.0,1
+Nashville,Barbeque,0,3.736842105263158,19
+Nashville,Barbeque,1,3.857142857142857,7
+Nashville,Barbers,0,4.0,2
+Nashville,Bars,0,4.5,18
+Nashville,Bars,1,3.5714285714285716,7
+Nashville,Beauty & Spas,1,2.0,1
+Nashville,Books,0,4.8,5
+Nashville,Bowling,1,4.0,1
+Nashville,Breakfast & Brunch,0,4.1,10
+Nashville,Breakfast & Brunch,1,4.0,5
+Nashville,Breweries,0,4.0,2
+Nashville,Breweries,1,4.0,2
+Nashville,Burgers,0,3.3157894736842106,19
+Nashville,Burgers,1,2.6666666666666665,3
+Nashville,Cafes,0,3.4444444444444446,9
+Nashville,Cafes,1,4.5,4
+Nashville,Campgrounds,0,4.0,1
+Nashville,Caterers,0,4.0,7
+Nashville,Caterers,1,4.0,5
+Nashville,Chicken Wings,0,4.166666666666667,12
+Nashville,Chicken Wings,1,3.4285714285714284,7
+Nashville,Chinese,0,4.5,2
+Nashville,Chinese,1,4.0,1
+Nashville,Cocktail Bars,0,3.761904761904762,21
+Nashville,Cocktail Bars,1,3.5714285714285716,7
+Nashville,Coffee & Tea,0,3.8333333333333335,6
+Nashville,Coffee & Tea,1,4.0,4
+Nashville,Cupcakes,0,4.0,1
+Nashville,Custom Cakes,0,4.666666666666667,3
+Nashville,Custom Cakes,1,4.5,2
+Nashville,Desserts,1,5.0,1
+Nashville,Ethnic Food,0,4.285714285714286,7
+Nashville,Ethnic Food,1,5.0,3
+Nashville,Event Planning & Services,0,2.1666666666666665,6
+Nashville,Event Planning & Services,1,3.5,2
+Nashville,Eyewear & Opticians,1,3.0,1
+Nashville,Fashion,0,3.6,5
+Nashville,Fashion,1,4.0,1
+Nashville,Fast Food,0,2.0,1
+Nashville,Fast Food,1,1.0,1
+Nashville,Fitness & Instruction,0,3.0,1
+Nashville,Food,0,3.6296296296296298,27
+Nashville,Food,1,3.75,12
+Nashville,Furniture Stores,0,2.0,1
+Nashville,Gas Stations,0,5.0,1
+Nashville,Greek,0,3.5,6
+Nashville,Greek,1,4.0,1
+Nashville,Gyms,0,5.0,1
+Nashville,Gyms,1,5.0,2
+Nashville,Hair Removal,1,2.0,1
+Nashville,Hair Salons,0,3.0,2
+Nashville,Hair Salons,1,5.0,1
+Nashville,Health Markets,0,4.285714285714286,7
+Nashville,Health Markets,1,3.5,2
+Nashville,Hookah Bars,0,4.666666666666667,3
+Nashville,Hospitals,0,5.0,1
+Nashville,Hotels,0,2.0,1
+Nashville,Hotels & Travel,0,3.0,3
+Nashville,Hotels & Travel,1,2.0,1
+Nashville,Ice Cream & Frozen Yogurt,0,4.125,16
+Nashville,Ice Cream & Frozen Yogurt,1,4.333333333333333,3
+Nashville,Italian,0,4.0,1
+Nashville,Italian,1,4.5,2
+Nashville,Japanese,0,4.0625,16
+Nashville,Japanese,1,3.3333333333333335,3
+Nashville,Korean,0,4.285714285714286,7
+Nashville,Korean,1,4.142857142857143,7
+Nashville,Laundry Services,1,3.0,1
+Nashville,Local Flavor,0,3.0,3
+Nashville,Local Flavor,1,5.0,1
+Nashville,Local Services,0,5.0,2
+Nashville,Local Services,1,1.0,1
+Nashville,Lounges,0,3.5,4
+Nashville,Lounges,1,4.5,2
+Nashville,Massage,0,5.0,1
+Nashville,Massage,1,5.0,1
+Nashville,Mediterranean,0,5.0,2
+Nashville,Middle Eastern,0,4.0,8
+Nashville,Middle Eastern,1,4.5,2
+Nashville,Music Venues,0,4.333333333333333,3
+Nashville,Nightlife,0,3.0,11
+Nashville,Nightlife,1,3.3333333333333335,6
+Nashville,Nurseries & Gardening,0,4.0,2
+Nashville,Pets,0,5.0,5
+Nashville,Pets,1,4.5,4
+Nashville,Pizza,0,3.375,8
+Nashville,Pizza,1,4.0,3
+Nashville,Playgrounds,0,4.0,2
+Nashville,Pop-up Shops,0,2.0,1
+Nashville,Professional Services,0,1.5,2
+Nashville,Public Services & Government,0,4.0,2
+Nashville,Public Services & Government,1,3.5,2
+Nashville,Resorts,0,4.333333333333333,3
+Nashville,Restaurants,0,3.7045454545454546,88
+Nashville,Restaurants,1,3.357142857142857,42
+Nashville,Sandwiches,0,3.6666666666666665,3
+Nashville,Sandwiches,1,5.0,1
+Nashville,Sewing & Alterations,1,5.0,1
+Nashville,Shopping,0,4.1,10
+Nashville,Shopping,1,3.6666666666666665,6
+Nashville,Southern,1,4.0,1
+Nashville,Sports Bars,1,5.0,1
+Nashville,Stadiums & Arenas,0,3.375,8
+Nashville,Stadiums & Arenas,1,5.0,1
+Nashville,Steakhouses,0,3.3333333333333335,3
+Nashville,Steakhouses,1,4.0,1
+Nashville,Sushi Bars,0,3.125,16
+Nashville,Sushi Bars,1,4.090909090909091,11
+Nashville,Tapas Bars,0,3.3333333333333335,6
+Nashville,Tapas Bars,1,4.0,3
+Nashville,Tattoo,0,5.0,1
+Nashville,Tattoo,1,4.0,1
+Nashville,Tex-Mex,0,4.0,9
+Nashville,Tex-Mex,1,2.7777777777777777,9
+Nashville,Thai,0,4.555555555555555,9
+Nashville,Thai,1,4.0,1
+Nashville,Trainers,0,5.0,1
+Nashville,Trainers,1,5.0,1
+Nashville,Vegetarian,0,5.0,2
+Nashville,Venues & Event Spaces,0,4.238095238095238,21
+Nashville,Venues & Event Spaces,1,4.333333333333333,9
+Nashville,Veterinarians,0,4.666666666666667,3
+Nashville,Veterinarians,1,4.0,1
+Nashville,Vietnamese,0,4.214285714285714,14
+Nashville,Vietnamese,1,4.0,6
+Nashville,Vinyl Records,1,4.0,1
+Nashville,Whiskey Bars,1,4.333333333333333,3
+Nashville,Women's Clothing,0,3.3333333333333335,3
+New Castle,Appliances,0,4.0,1
+New Castle,Appliances,1,4.0,1
+New Castle,Chicken Wings,0,3.0,1
+New Castle,Coffee & Tea,0,4.0,2
+New Castle,Food,0,2.5,4
+New Castle,Restaurants,0,5.0,1
+New Hope,Chinese,0,2.0,1
+New Hope,Food,0,2.0,1
+New Hope,Herbs & Spices,0,5.0,1
+New Hope,Nightlife,1,4.0,1
+New Hope,Pubs,1,4.5,2
+New Orleans,Acai Bowls,0,4.5,2
+New Orleans,Accessories,0,5.0,1
+New Orleans,Active Life,0,3.5,14
+New Orleans,Active Life,1,4.5,2
+New Orleans,Adult Entertainment,0,4.5,2
+New Orleans,Adult Entertainment,1,2.0,2
+New Orleans,American (New),0,3.5555555555555554,9
+New Orleans,American (New),1,3.8,5
+New Orleans,American (Traditional),0,3.375,16
+New Orleans,American (Traditional),1,3.6666666666666665,3
+New Orleans,Antiques,1,4.0,2
+New Orleans,Appliances,0,2.6666666666666665,3
+New Orleans,Arts & Crafts,1,4.0,1
+New Orleans,Arts & Entertainment,0,3.8333333333333335,6
+New Orleans,Arts & Entertainment,1,3.6666666666666665,3
+New Orleans,Asian Fusion,0,2.0,1
+New Orleans,Auto Glass Services,0,5.0,1
+New Orleans,Auto Repair,0,5.0,2
+New Orleans,Automotive,0,4.0,2
+New Orleans,Automotive,1,4.0,1
+New Orleans,Barbeque,0,3.5,10
+New Orleans,Barbeque,1,3.5,2
+New Orleans,Bars,0,3.688888888888889,45
+New Orleans,Bars,1,3.875,8
+New Orleans,Beauty & Spas,0,3.8,5
+New Orleans,Beauty & Spas,1,5.0,1
+New Orleans,Beer,0,3.75,4
+New Orleans,Beer,1,2.6666666666666665,3
+New Orleans,Boat Charters,0,4.5,4
+New Orleans,Boat Charters,1,3.0,2
+New Orleans,Breakfast & Brunch,0,3.730769230769231,26
+New Orleans,Breakfast & Brunch,1,4.090909090909091,11
+New Orleans,Breweries,0,3.2,5
+New Orleans,Breweries,1,5.0,2
+New Orleans,Burgers,0,3.4375,16
+New Orleans,Burgers,1,4.5,2
+New Orleans,Cafes,0,4.333333333333333,18
+New Orleans,Cafes,1,4.0,4
+New Orleans,Cajun/Creole,0,4.4,20
+New Orleans,Cajun/Creole,1,3.888888888888889,9
+New Orleans,Candy Stores,0,4.0,1
+New Orleans,Caterers,0,4.0,4
+New Orleans,Chicken Shop,0,4.0,1
+New Orleans,Chicken Wings,0,4.25,4
+New Orleans,Cocktail Bars,0,4.5,10
+New Orleans,Cocktail Bars,1,4.5,2
+New Orleans,Coffee & Tea,0,4.166666666666667,12
+New Orleans,Coffee & Tea,1,3.8,5
+New Orleans,Cultural Center,0,4.333333333333333,3
+New Orleans,Cupcakes,0,4.6,5
+New Orleans,Cupcakes,1,4.0,1
+New Orleans,Delis,0,3.0,1
+New Orleans,Dive Bars,0,2.0,1
+New Orleans,Dry Cleaning & Laundry,0,5.0,1
+New Orleans,Event Planning & Services,0,3.875,8
+New Orleans,Event Planning & Services,1,4.333333333333333,3
+New Orleans,Fashion,0,4.0,6
+New Orleans,Fashion,1,3.75,4
+New Orleans,Fast Food,0,2.5,2
+New Orleans,Food,0,4.226415094339623,53
+New Orleans,Food,1,4.3,30
+New Orleans,Food Stands,0,5.0,1
+New Orleans,Food Trucks,1,4.0,2
+New Orleans,Funeral Services & Cemeteries,0,4.0,2
+New Orleans,German,0,3.9767441860465116,43
+New Orleans,German,1,4.555555555555555,9
+New Orleans,Gyms,1,4.0,1
+New Orleans,Hair Removal,0,4.5,2
+New Orleans,Hair Salons,0,5.0,1
+New Orleans,Hair Salons,1,5.0,1
+New Orleans,Hardware Stores,0,5.0,1
+New Orleans,Herbs & Spices,0,5.0,1
+New Orleans,Historical Tours,0,5.0,1
+New Orleans,Hotels,0,4.230769230769231,13
+New Orleans,Hotels,1,4.5,4
+New Orleans,Hotels & Travel,0,3.9166666666666665,12
+New Orleans,Hotels & Travel,1,3.6666666666666665,3
+New Orleans,Ice Cream & Frozen Yogurt,0,3.875,8
+New Orleans,Ice Cream & Frozen Yogurt,1,4.2,5
+New Orleans,Imported Food,0,4.0,1
+New Orleans,Japanese,0,2.5,2
+New Orleans,Japanese,1,4.0,1
+New Orleans,Jazz & Blues,0,4.423076923076923,26
+New Orleans,Jazz & Blues,1,4.3,10
+New Orleans,Juice Bars & Smoothies,0,4.5,2
+New Orleans,Local Services,0,5.0,2
+New Orleans,Lounges,0,3.857142857142857,7
+New Orleans,Lounges,1,4.5,2
+New Orleans,Massage Therapy,0,5.0,1
+New Orleans,Men's Clothing,0,2.0,1
+New Orleans,Men's Clothing,1,5.0,2
+New Orleans,Mexican,0,3.473684210526316,19
+New Orleans,Mexican,1,3.6666666666666665,6
+New Orleans,Middle Eastern,0,4.0,5
+New Orleans,Mini Golf,0,4.0,2
+New Orleans,Mini Golf,1,4.0,1
+New Orleans,Music Venues,0,3.5714285714285716,7
+New Orleans,Music Venues,1,5.0,1
+New Orleans,Nail Salons,0,4.5,2
+New Orleans,Naturopathic/Holistic,0,5.0,1
+New Orleans,Nephrologists,0,4.0,1
+New Orleans,Nightlife,0,4.181818181818182,33
+New Orleans,Nightlife,1,3.4166666666666665,12
+New Orleans,Oil Change Stations,0,2.4,5
+New Orleans,Oil Change Stations,1,3.0,1
+New Orleans,Parks,0,4.0,2
+New Orleans,Personal Chefs,0,4.625,8
+New Orleans,Personal Chefs,1,4.0,3
+New Orleans,Pet Services,0,5.0,2
+New Orleans,Pet Services,1,5.0,1
+New Orleans,Pet Stores,0,4.0,1
+New Orleans,Pilates,1,4.0,1
+New Orleans,Pizza,0,3.6666666666666665,9
+New Orleans,Pizza,1,3.5,6
+New Orleans,Pubs,0,3.8,5
+New Orleans,Pubs,1,4.5,2
+New Orleans,Restaurants,0,3.8214285714285716,84
+New Orleans,Restaurants,1,3.675675675675676,37
+New Orleans,Salad,0,3.2857142857142856,7
+New Orleans,Salad,1,3.0,2
+New Orleans,Sandwiches,0,4.0,10
+New Orleans,Sandwiches,1,3.75,4
+New Orleans,Screen Printing,0,5.0,3
+New Orleans,Seafood,0,3.5789473684210527,19
+New Orleans,Seafood,1,3.8333333333333335,6
+New Orleans,Shopping,0,5.0,2
+New Orleans,Southern,0,3.888888888888889,9
+New Orleans,Southern,1,3.6666666666666665,3
+New Orleans,Specialty Food,0,4.214285714285714,14
+New Orleans,Specialty Food,1,4.0,4
+New Orleans,Stadiums & Arenas,1,4.0,1
+New Orleans,Street Vendors,0,4.0,2
+New Orleans,Supernatural Readings,0,5.0,1
+New Orleans,Tapas/Small Plates,0,4.0,1
+New Orleans,Tex-Mex,0,2.8181818181818183,11
+New Orleans,Tex-Mex,1,3.5,4
+New Orleans,Tires,1,5.0,1
+New Orleans,Transportation,0,4.2,5
+New Orleans,Transportation,1,3.0,1
+New Orleans,Used,0,5.0,1
+New Orleans,Vegetarian,0,4.538461538461538,13
+New Orleans,Vegetarian,1,4.333333333333333,9
+New Orleans,Venues & Event Spaces,0,3.5,4
+New Orleans,Venues & Event Spaces,1,4.0,2
+New Orleans,Vietnamese,0,3.857142857142857,14
+New Orleans,Vietnamese,1,3.6,5
+New Palestine,Professional Services,0,5.0,1
+New Port Richey,Food,0,5.0,1
+New Port Richey,Restaurants,0,4.5,2
+New Port Richey,Restaurants,1,4.0,1
+New Port Richey,Sushi Bars,0,3.0,1
+New Port Richey,Sushi Bars,1,5.0,1
+Newark,Computers,0,4.0,1
+Newark,Event Planning & Services,0,1.0,1
+Newark,Movers,0,5.0,1
+Newark,Nightlife,0,5.0,1
+Newark,Nightlife,1,5.0,1
+Newark,Shopping Centers,0,4.333333333333333,3
+Newark,Shopping Centers,1,4.0,1
+Newark,Vegetarian,0,4.5,2
+Newtown,American (New),0,4.25,4
+Newtown,American (New),1,4.666666666666667,3
+Newtown,Carpeting,0,5.0,2
+Newtown,Coffee & Tea,0,5.0,1
+Newtown,Food,0,5.0,1
+Newtown,Korean,0,3.3333333333333335,3
+Newtown,Restaurants,0,4.5,6
+Newtown,Restaurants,1,4.5,2
+Newtown Square,Cosmetics & Beauty Supply,0,1.0,1
+Newtown Square,Cosmetics & Beauty Supply,1,1.0,1
+Newtown Square,Italian,0,3.3333333333333335,3
+Newtown Square,Italian,1,5.0,1
+Noblesville,Restaurants,1,2.0,1
+Nolensville,Bakeries,0,4.0,2
+Norristown,Barbeque,0,2.0,1
+Norristown,Barbeque,1,4.0,1
+Norristown,Car Dealers,0,1.0,1
+Norristown,Event Planning & Services,0,5.0,1
+Norristown,Hardware Stores,1,1.0,1
+Norristown,Indian,0,3.857142857142857,7
+Norristown,Pizza,0,4.0,1
+Norristown,Restaurants,0,3.75,4
+Norristown,Sandwiches,0,4.0,1
+Norristown,Seafood,1,4.0,1
+Norristown,Sports Bars,0,4.5,2
+North Redington Beach,American (New),0,4.0,1
+North Wales,Breakfast & Brunch,1,1.0,1
+North Wales,Buffets,1,2.0,1
+North Wales,Restaurants,0,4.0,3
+North Wales,Restaurants,1,2.0,2
+O Fallon,Restaurants,0,3.25,4
+O Fallon,Restaurants,1,3.0,1
+O Fallon,Shopping,0,3.0,1
+O Fallon,Thai,0,4.0,4
+O Fallon,Thai,1,3.0,1
+O'Fallon,Playgrounds,1,1.0,2
+O'Fallon,Restaurants,0,3.0,1
+Oaklyn,Auto Repair,0,5.0,1
+Oaks,Cinema,0,4.0,1
+Oaks,Cinema,1,2.0,1
+Oaks,Nightlife,1,3.0,1
+Oaks,Restaurants,0,1.0,2
+Oaks,Restaurants,1,3.0,3
+Oaks,Sandwiches,0,4.0,2
+Oaks,Thai,1,3.0,1
+Oakville,Oil Change Stations,1,4.0,1
+Odessa,Restaurants,0,4.0,1
+Old Hickory,Restaurants,0,3.0,2
+Old Hickory,Restaurants,1,5.0,1
+Oldsmar,Chicken Wings,0,3.4,5
+Oldsmar,Chinese,0,1.0,1
+Oldsmar,Food,0,2.5,2
+Oldsmar,Latin American,0,4.0,3
+Oldsmar,Latin American,1,2.0,2
+Oldsmar,Restaurants,0,4.5,2
+Oro Valley,Hotels & Travel,1,2.0,1
+Oro Valley,Mexican,0,4.5,2
+Oro Valley,Mexican,1,3.0,3
+Oro Valley,Pizza,0,4.0,1
+Oro Valley,Restaurants,0,4.0,1
+Palm Harbor,Day Spas,1,5.0,1
+Palm Harbor,Health & Medical,0,4.0,2
+Palm Harbor,Italian,0,5.0,1
+Palm Harbor,Pubs,1,1.0,1
+Palm Harbor,Restaurants,0,3.6666666666666665,3
+Palm Harbor,Restaurants,1,4.25,8
+Palm Harbor,Specialty Food,0,3.0,2
+Palm Harbor,Trainers,0,3.0,2
+Palm Harbor,Vegan,0,4.75,4
+Palm Harbor,Vegan,1,3.0,1
+Palmyra,Jewelry,0,5.0,1
+Paoli,Automotive,0,4.0,1
+Paoli,Gastropubs,1,5.0,1
+Paoli,Restaurants,0,5.0,1
+Paoli,Sandwiches,0,5.0,2
+Paoli,Sandwiches,1,5.0,1
+Paoli,Vietnamese,0,2.8,5
+Paoli,Vietnamese,1,3.0,1
+Paulsboro,Food,0,4.0,1
+Paulsboro,Food,1,3.0,1
+Pennington,Food,0,4.0,1
+Pennsauken,Discount Store,0,1.0,1
+Pennsburg,Restaurants,0,4.0,1
+Philadelphia,Active Life,0,4.255813953488372,43
+Philadelphia,Active Life,1,4.363636363636363,11
+Philadelphia,American (New),0,3.7837837837837838,74
+Philadelphia,American (New),1,3.6785714285714284,28
+Philadelphia,American (Traditional),0,3.5416666666666665,48
+Philadelphia,American (Traditional),1,3.769230769230769,13
+Philadelphia,Antiques,0,5.0,3
+Philadelphia,Antiques,1,5.0,1
+Philadelphia,Apartments,0,5.0,2
+Philadelphia,Art Classes,0,5.0,2
+Philadelphia,Arts & Crafts,0,5.0,1
+Philadelphia,Arts & Crafts,1,1.5,2
+Philadelphia,Arts & Entertainment,0,4.241379310344827,29
+Philadelphia,Arts & Entertainment,1,4.25,4
+Philadelphia,Asian Fusion,0,4.16,25
+Philadelphia,Asian Fusion,1,3.5714285714285716,7
+Philadelphia,Auto Parts & Supplies,0,4.0,1
+Philadelphia,Automotive,0,4.2,5
+Philadelphia,Automotive,1,4.8,5
+Philadelphia,Bakeries,0,3.5555555555555554,9
+Philadelphia,Bakeries,1,4.0,3
+Philadelphia,Barbers,0,4.0,1
+Philadelphia,Barbers,1,5.0,1
+Philadelphia,Bars,0,3.7281553398058254,103
+Philadelphia,Bars,1,3.774193548387097,31
+Philadelphia,Beauty & Spas,0,3.8333333333333335,24
+Philadelphia,Beauty & Spas,1,4.166666666666667,6
+Philadelphia,Beer,0,4.5588235294117645,34
+Philadelphia,Beer,1,4.857142857142857,7
+Philadelphia,Beer Bar,1,1.0,1
+Philadelphia,Bike Repair/Maintenance,0,4.666666666666667,3
+Philadelphia,Bikes,0,3.5,2
+Philadelphia,Body Shops,0,3.5,2
+Philadelphia,Bookstores,0,4.6,5
+Philadelphia,Bookstores,1,5.0,1
+Philadelphia,Breakfast & Brunch,0,3.413793103448276,29
+Philadelphia,Breakfast & Brunch,1,3.5384615384615383,13
+Philadelphia,Bridal,0,3.0,1
+Philadelphia,Bubble Tea,0,3.4,10
+Philadelphia,Bubble Tea,1,4.0,1
+Philadelphia,Burgers,0,3.8636363636363638,44
+Philadelphia,Burgers,1,3.9285714285714284,14
+Philadelphia,Cafes,0,4.5,6
+Philadelphia,Cafes,1,5.0,2
+Philadelphia,Cantonese,0,2.0,2
+Philadelphia,Car Dealers,0,2.0,1
+Philadelphia,Car Rental,0,2.6666666666666665,3
+Philadelphia,Caribbean,0,2.8461538461538463,13
+Philadelphia,Caribbean,1,1.8,5
+Philadelphia,Caterers,0,4.666666666666667,6
+Philadelphia,Cheesesteaks,0,3.25,4
+Philadelphia,Cheesesteaks,1,3.0,4
+Philadelphia,Chicken Wings,0,4.2,5
+Philadelphia,Chicken Wings,1,5.0,1
+Philadelphia,Chinese,0,4.0,17
+Philadelphia,Chinese,1,3.0,6
+Philadelphia,Cocktail Bars,0,4.0,2
+Philadelphia,Cocktail Bars,1,4.0,4
+Philadelphia,Coffee & Tea,0,3.210526315789474,19
+Philadelphia,Coffee & Tea,1,3.5714285714285716,7
+Philadelphia,Contractors,0,4.0,14
+Philadelphia,Contractors,1,4.0,3
+Philadelphia,Convenience Stores,0,4.0,1
+Philadelphia,Cooking Schools,1,4.0,1
+Philadelphia,Cosmetics & Beauty Supply,0,1.0,1
+Philadelphia,Cupcakes,1,4.0,1
+Philadelphia,Dance Clubs,1,2.0,1
+Philadelphia,Dance Studios,0,4.0,1
+Philadelphia,Delis,0,3.8461538461538463,13
+Philadelphia,Delis,1,4.0,3
+Philadelphia,Desserts,0,4.0,3
+Philadelphia,Desserts,1,5.0,1
+Philadelphia,Dim Sum,0,3.2857142857142856,7
+Philadelphia,Dim Sum,1,3.375,8
+Philadelphia,Diners,0,4.6,5
+Philadelphia,Diners,1,4.0,1
+Philadelphia,Dive Bars,0,1.0,1
+Philadelphia,Dog Walkers,0,5.0,1
+Philadelphia,Dog Walkers,1,5.0,1
+Philadelphia,Endodontists,0,5.0,1
+Philadelphia,Endodontists,1,4.0,1
+Philadelphia,Event Planning & Services,0,3.6666666666666665,60
+Philadelphia,Event Planning & Services,1,4.0,14
+Philadelphia,Eyewear & Opticians,0,5.0,2
+Philadelphia,Eyewear & Opticians,1,5.0,1
+Philadelphia,Fashion,0,4.4,5
+Philadelphia,Fashion,1,5.0,2
+Philadelphia,Fast Food,0,4.0,1
+Philadelphia,Fast Food,1,4.0,1
+Philadelphia,Financial Services,0,2.0,3
+Philadelphia,Financial Services,1,1.0,1
+Philadelphia,Food,0,3.778481012658228,158
+Philadelphia,Food,1,4.115384615384615,52
+Philadelphia,Food Court,0,1.0,1
+Philadelphia,Food Delivery Services,0,3.0,10
+Philadelphia,Food Delivery Services,1,4.0,2
+Philadelphia,Food Stands,0,3.0,15
+Philadelphia,Food Stands,1,3.0,3
+Philadelphia,Food Trucks,0,4.428571428571429,14
+Philadelphia,Food Trucks,1,4.0,2
+Philadelphia,French,0,2.0,1
+Philadelphia,French,1,2.0,1
+Philadelphia,Furniture Stores,0,5.0,2
+Philadelphia,Furniture Stores,1,5.0,1
+Philadelphia,General Dentistry,0,5.0,4
+Philadelphia,Gift Shops,1,4.0,1
+Philadelphia,Gluten-Free,0,5.0,2
+Philadelphia,Gluten-Free,1,4.666666666666667,3
+Philadelphia,Grocery,0,4.4,15
+Philadelphia,Grocery,1,3.3333333333333335,3
+Philadelphia,Gun/Rifle Ranges,0,2.5,2
+Philadelphia,Gyms,0,3.3333333333333335,9
+Philadelphia,Hair Extensions,0,4.0,1
+Philadelphia,Hair Salons,0,4.230769230769231,13
+Philadelphia,Hair Salons,1,5.0,1
+Philadelphia,Hair Stylists,0,4.125,8
+Philadelphia,Halal,0,5.0,4
+Philadelphia,Halal,1,5.0,1
+Philadelphia,Hardware Stores,0,4.4,5
+Philadelphia,Hardware Stores,1,5.0,2
+Philadelphia,Health & Medical,0,3.9166666666666665,12
+Philadelphia,Health & Medical,1,5.0,2
+Philadelphia,Hiking,0,5.0,2
+Philadelphia,Hiking,1,4.0,2
+Philadelphia,Home & Garden,0,4.5,2
+Philadelphia,Home & Garden,1,5.0,1
+Philadelphia,Home Decor,0,4.0,1
+Philadelphia,Home Decor,1,4.5,2
+Philadelphia,Home Services,0,1.3333333333333333,3
+Philadelphia,Home Services,1,3.3333333333333335,3
+Philadelphia,Hospitals,0,2.6666666666666665,3
+Philadelphia,Hot Dogs,0,4.0,10
+Philadelphia,Hot Dogs,1,3.0,1
+Philadelphia,Hotels,0,4.333333333333333,3
+Philadelphia,Hotels,1,4.0,1
+Philadelphia,Hotels & Travel,0,4.375,8
+Philadelphia,Hotels & Travel,1,4.8,5
+Philadelphia,Ice Cream & Frozen Yogurt,0,4.117647058823529,17
+Philadelphia,Ice Cream & Frozen Yogurt,1,4.0,4
+Philadelphia,Indian,0,3.3333333333333335,6
+Philadelphia,Indian,1,4.5,2
+Philadelphia,Indonesian,0,4.142857142857143,7
+Philadelphia,Indonesian,1,4.0,2
+Philadelphia,Internal Medicine,0,5.0,2
+Philadelphia,Italian,0,3.857142857142857,84
+Philadelphia,Italian,1,3.875,24
+Philadelphia,Japanese,0,3.1818181818181817,11
+Philadelphia,Japanese,1,5.0,2
+Philadelphia,Juice Bars & Smoothies,0,4.375,8
+Philadelphia,Juice Bars & Smoothies,1,4.285714285714286,7
+Philadelphia,Karaoke,0,3.0,2
+Philadelphia,Karaoke,1,5.0,1
+Philadelphia,Keys & Locksmiths,0,4.0,1
+Philadelphia,Korean,0,4.368421052631579,19
+Philadelphia,Korean,1,4.6,5
+Philadelphia,Landmarks & Historical Buildings,0,3.3333333333333335,3
+Philadelphia,Landmarks & Historical Buildings,1,5.0,1
+Philadelphia,Latin American,0,4.6,5
+Philadelphia,Latin American,1,4.0,1
+Philadelphia,Local Flavor,0,4.2727272727272725,11
+Philadelphia,Local Flavor,1,4.0,3
+Philadelphia,Local Services,0,4.428571428571429,7
+Philadelphia,Local Services,1,4.0,4
+Philadelphia,Lounges,0,3.909090909090909,22
+Philadelphia,Lounges,1,3.125,8
+Philadelphia,Makeup Artists,0,4.222222222222222,9
+Philadelphia,Makeup Artists,1,2.0,1
+Philadelphia,Malaysian,0,3.8333333333333335,30
+Philadelphia,Malaysian,1,3.769230769230769,13
+Philadelphia,Massage,0,5.0,1
+Philadelphia,Massage,1,4.0,2
+Philadelphia,Medical Supplies,0,5.0,1
+Philadelphia,Mediterranean,0,4.033333333333333,30
+Philadelphia,Mediterranean,1,4.333333333333333,18
+Philadelphia,Men's Clothing,1,4.0,1
+Philadelphia,Mexican,0,3.719298245614035,57
+Philadelphia,Mexican,1,3.6,15
+Philadelphia,Middle Eastern,1,4.0,1
+Philadelphia,Mobile Phones,0,2.0,2
+Philadelphia,Moroccan,0,4.5,2
+Philadelphia,Moroccan,1,4.0,1
+Philadelphia,Movers,0,5.0,1
+Philadelphia,Movers,1,5.0,1
+Philadelphia,Museums,0,5.0,1
+Philadelphia,Music & DVDs,0,4.0,1
+Philadelphia,Music & DVDs,1,3.3333333333333335,3
+Philadelphia,Nail Salons,0,4.0,3
+Philadelphia,Nail Salons,1,4.0,1
+Philadelphia,New Mexican Cuisine,0,4.0,1
+Philadelphia,New Mexican Cuisine,1,4.5,2
+Philadelphia,Nightlife,0,3.5058823529411764,85
+Philadelphia,Nightlife,1,3.0526315789473686,19
+Philadelphia,Noodles,0,3.0,1
+Philadelphia,Noodles,1,5.0,1
+Philadelphia,Orthodontists,0,5.0,3
+Philadelphia,Packing Services,0,5.0,1
+Philadelphia,Paddleboarding,0,4.0,2
+Philadelphia,Paddleboarding,1,5.0,1
+Philadelphia,Pakistani,0,3.8,5
+Philadelphia,Pakistani,1,4.0,2
+Philadelphia,Pediatricians,0,5.0,3
+Philadelphia,Pediatricians,1,5.0,1
+Philadelphia,Performing Arts,0,3.5,4
+Philadelphia,Performing Arts,1,3.0,2
+Philadelphia,Pet Services,0,4.0,1
+Philadelphia,Pet Stores,0,4.625,8
+Philadelphia,Pet Stores,1,5.0,1
+Philadelphia,Pets,0,4.8,5
+Philadelphia,Pets,1,5.0,3
+Philadelphia,Pizza,0,3.491228070175439,57
+Philadelphia,Pizza,1,3.4705882352941178,17
+Philadelphia,Professional Sports Teams,0,2.5,2
+Philadelphia,Professional Sports Teams,1,2.0,2
+Philadelphia,Propane,0,1.0,2
+Philadelphia,Public Services & Government,0,5.0,1
+Philadelphia,Public Transportation,0,3.6666666666666665,12
+Philadelphia,Public Transportation,1,4.0,6
+Philadelphia,Pubs,0,4.0,1
+Philadelphia,Ramen,0,5.0,1
+Philadelphia,Real Estate,0,1.0,1
+Philadelphia,Real Estate Agents,0,5.0,1
+Philadelphia,Real Estate Agents,1,5.0,1
+Philadelphia,Real Estate Services,0,5.0,1
+Philadelphia,Rehabilitation Center,0,4.0,1
+Philadelphia,Restaurants,0,3.891089108910891,505
+Philadelphia,Restaurants,1,3.7151515151515153,165
+Philadelphia,Salad,1,4.0,1
+Philadelphia,Salvadoran,0,4.0,1
+Philadelphia,Sandwiches,0,3.639344262295082,61
+Philadelphia,Sandwiches,1,4.0,15
+Philadelphia,Seafood,0,3.9583333333333335,24
+Philadelphia,Seafood,1,3.727272727272727,11
+Philadelphia,Security Systems,0,2.8,5
+Philadelphia,Security Systems,1,1.0,1
+Philadelphia,Shoe Stores,0,5.0,1
+Philadelphia,Shopping,0,3.64,25
+Philadelphia,Shopping,1,4.0,8
+Philadelphia,Skin Care,0,4.333333333333333,6
+Philadelphia,Skin Care,1,4.5,4
+Philadelphia,Soup,0,3.2857142857142856,7
+Philadelphia,Soup,1,3.0,4
+Philadelphia,Southern,0,4.217391304347826,46
+Philadelphia,Southern,1,3.625,24
+Philadelphia,Specialty Food,0,5.0,1
+Philadelphia,Specialty Food,1,4.4,5
+Philadelphia,Specialty Schools,0,3.5,4
+Philadelphia,Specialty Schools,1,4.25,4
+Philadelphia,Sporting Goods,1,1.0,1
+Philadelphia,Sports Bars,0,3.0,1
+Philadelphia,Spray Tanning,0,4.0,1
+Philadelphia,Steakhouses,0,4.0,3
+Philadelphia,Steakhouses,1,3.4,5
+Philadelphia,Sushi Bars,0,3.5384615384615383,26
+Philadelphia,Sushi Bars,1,2.909090909090909,11
+Philadelphia,Tacos,0,4.117647058823529,17
+Philadelphia,Tacos,1,3.3333333333333335,3
+Philadelphia,Taiwanese,0,3.6666666666666665,3
+Philadelphia,Taiwanese,1,4.142857142857143,7
+Philadelphia,Tapas Bars,0,4.333333333333333,3
+Philadelphia,Tattoo,0,3.5,2
+Philadelphia,Tea Rooms,0,4.0,5
+Philadelphia,Telecommunications,1,1.0,1
+Philadelphia,Tex-Mex,0,3.6666666666666665,3
+Philadelphia,Tex-Mex,1,2.5,2
+Philadelphia,Thai,0,4.052631578947368,19
+Philadelphia,Thai,1,3.6666666666666665,6
+Philadelphia,Thrift Stores,0,5.0,1
+Philadelphia,Tires,0,3.3333333333333335,3
+Philadelphia,Tobacco Shops,0,4.75,4
+Philadelphia,Tours,0,4.0,2
+Philadelphia,Trinidadian,0,3.0,1
+Philadelphia,Urgent Care,0,1.0,1
+Philadelphia,Urgent Care,1,1.0,1
+Philadelphia,Used,0,3.5,2
+Philadelphia,Vegan,0,5.0,1
+Philadelphia,Vegan,1,2.0,1
+Philadelphia,Vegetarian,0,3.8,5
+Philadelphia,Vegetarian,1,3.0,1
+Philadelphia,Venues & Event Spaces,0,2.5,2
+Philadelphia,Veterinarians,0,4.2,5
+Philadelphia,Veterinarians,1,5.0,1
+Philadelphia,Vietnamese,0,4.0,11
+Philadelphia,Vietnamese,1,3.5,8
+Philadelphia,Waxing,0,4.75,4
+Philadelphia,Waxing,1,5.0,2
+Philadelphia,Wedding Planning,0,5.0,1
+Philadelphia,Wine Bars,0,4.0,9
+Philadelphia,Women's Clothing,0,5.0,1
+Phoenixville,Beauty & Spas,0,4.0,2
+Phoenixville,Food,0,4.0,1
+Phoenixville,Latin American,0,5.0,1
+Phoenixville,Restaurants,0,3.0,1
+Phoenixville,Restaurants,1,4.0,1
+Phoenixville,Salad,0,4.5,2
+Phoenixville,Shopping,0,4.0,2
+Phoenixville,Thai,0,4.0,7
+Phoenixville,Thai,1,4.0,1
+Phoenixville,Wine Bars,1,3.3333333333333335,3
+Pike Creek,Pizza,0,4.0,1
+Pinellas Park,Accessories,0,1.0,1
+Pinellas Park,Accessories,1,5.0,1
+Pinellas Park,Barbeque,0,4.666666666666667,3
+Pinellas Park,Barbeque,1,4.0,3
+Pinellas Park,Car Dealers,1,5.0,1
+Pinellas Park,Delis,1,5.0,1
+Pinellas Park,Event Planning & Services,0,4.0,1
+Pinellas Park,Fast Food,1,4.0,1
+Pinellas Park,Food,0,3.3333333333333335,12
+Pinellas Park,Food,1,4.25,8
+Pinellas Park,Mexican,0,5.0,1
+Pinellas Park,Mexican,1,4.0,3
+Pinellas Park,Nightlife,0,3.25,4
+Pinellas Park,Nightlife,1,4.0,2
+Pinellas Park,Restaurants,0,1.5,2
+Pinellas Park,Restaurants,1,4.0,2
+Pinellas Park,Skin Care,1,5.0,1
+Pipersville,Street Vendors,1,3.0,1
+Pitman,Cinema,0,4.0,1
+Pitman,Restaurants,1,4.0,1
+Plainfield,Bars,0,2.0,4
+Plainfield,Caterers,0,4.5,2
+Plainfield,Food,0,1.0,1
+Plainfield,Home & Garden,1,2.0,1
+Plainfield,Home Decor,0,5.0,1
+Plainfield,Ice Cream & Frozen Yogurt,0,3.0,2
+Plainfield,Restaurants,1,1.0,1
+Plant City,Food,0,3.0,1
+Plant City,Food,1,5.0,1
+Plant City,Southern,0,4.0,1
+Plymouth Meeting,Arts & Entertainment,0,5.0,1
+Plymouth Meeting,Arts & Entertainment,1,2.0,1
+Plymouth Meeting,Asian Fusion,0,3.4,10
+Plymouth Meeting,Asian Fusion,1,4.0,3
+Plymouth Meeting,Event Planning & Services,0,2.0,1
+Plymouth Meeting,Event Planning & Services,1,3.0,1
+Plymouth Meeting,Japanese,0,3.25,4
+Plymouth Meeting,Massage,0,3.0,1
+Port Richey,Cinema,0,4.0,1
+Port Richey,Cinema,1,5.0,1
+Port Richey,Mexican,1,3.0,1
+Port Richey,Performing Arts,1,2.0,1
+Port Richey,Restaurants,0,5.0,1
+Port Richey,Restaurants,1,4.0,2
+Port Richey,Sushi Bars,0,3.0,2
+Port Richey,Sushi Bars,1,3.0,1
+Pottstown,Beauty & Spas,0,4.0,1
+Pottstown,Restaurants,0,5.0,1
+Pottstown,Restaurants,1,4.0,1
+Primos,Coffee & Tea,0,4.333333333333333,3
+Primos-Secane,Appliances,1,4.0,2
+Prospect Park,Italian,0,2.0,1
+Quakertown,Active Life,0,3.0,1
+Quakertown,Beer Bar,0,1.0,1
+Quakertown,Beer Bar,1,1.0,1
+Radnor,Food,0,2.0,1
+Redington Shores,Condominiums,0,5.0,1
+Reno,Active Life,0,4.0,1
+Reno,American (New),0,3.75,8
+Reno,American (New),1,4.25,4
+Reno,American (Traditional),0,3.0,2
+Reno,American (Traditional),1,2.0,1
+Reno,Animal Shelters,1,5.0,1
+Reno,Apartments,0,5.0,1
+Reno,Appliances,0,2.0,1
+Reno,Arts & Entertainment,0,3.888888888888889,9
+Reno,Arts & Entertainment,1,3.4,5
+Reno,Asian Fusion,0,5.0,1
+Reno,Auto Glass Services,0,5.0,1
+Reno,Auto Repair,0,5.0,1
+Reno,Auto Repair,1,5.0,2
+Reno,Automotive,0,3.5714285714285716,7
+Reno,Automotive,1,2.0,1
+Reno,Bakeries,0,5.0,1
+Reno,Bars,0,3.6666666666666665,24
+Reno,Bars,1,3.25,8
+Reno,Body Shops,1,4.0,1
+Reno,Breakfast & Brunch,0,4.333333333333333,6
+Reno,Breakfast & Brunch,1,2.8,5
+Reno,Burgers,0,3.0,1
+Reno,Cafes,0,3.4,5
+Reno,Cafes,1,4.0,2
+Reno,Cantonese,0,3.8333333333333335,6
+Reno,Cantonese,1,1.0,1
+Reno,Casinos,0,4.0,1
+Reno,Chicken Wings,0,2.0,2
+Reno,Chicken Wings,1,3.5,2
+Reno,Chinese,0,4.0,1
+Reno,Chiropractors,0,5.0,1
+Reno,Cinema,0,3.0,1
+Reno,Cocktail Bars,0,5.0,1
+Reno,Day Spas,0,4.0,1
+Reno,Delis,0,4.5,2
+Reno,Dentists,0,5.0,1
+Reno,Event Planning & Services,0,3.6666666666666665,12
+Reno,Event Planning & Services,1,3.0,4
+Reno,Fashion,0,3.0,2
+Reno,Fast Food,0,3.75,4
+Reno,Fast Food,1,4.0,1
+Reno,Festivals,1,2.0,2
+Reno,Fondue,0,3.4,5
+Reno,Food,0,3.911111111111111,45
+Reno,Food,1,4.133333333333334,15
+Reno,Greek,0,4.5,2
+Reno,Greek,1,4.0,1
+Reno,Grocery,0,3.375,8
+Reno,Grocery,1,3.0,1
+Reno,Gunsmith,1,5.0,2
+Reno,Gyms,0,5.0,1
+Reno,Handyman,0,5.0,1
+Reno,Haunted Houses,1,5.0,1
+Reno,Home Services,0,5.0,1
+Reno,Hot Dogs,0,1.5,2
+Reno,Italian,0,3.5,2
+Reno,Japanese,0,4.0,1
+Reno,Japanese,1,3.5,2
+Reno,Latin American,0,4.5,8
+Reno,Latin American,1,2.0,2
+Reno,Mattresses,0,4.0,1
+Reno,Men's Hair Salons,0,4.5,2
+Reno,Mexican,0,4.0,3
+Reno,Mexican,1,3.5,2
+Reno,Music Venues,0,3.5,2
+Reno,Music Venues,1,2.0,1
+Reno,Nightlife,0,4.375,8
+Reno,Nightlife,1,4.75,4
+Reno,Pakistani,0,3.0,1
+Reno,Pakistani,1,3.0,1
+Reno,Pets,0,2.0,1
+Reno,Pizza,0,4.25,4
+Reno,Pizza,1,4.0,1
+Reno,Restaurants,0,3.4130434782608696,46
+Reno,Restaurants,1,3.5555555555555554,27
+Reno,Salad,0,3.3333333333333335,3
+Reno,Sandwiches,0,4.0,1
+Reno,Sandwiches,1,5.0,1
+Reno,Seafood,0,5.0,3
+Reno,Shopping,0,3.3333333333333335,6
+Reno,Shopping,1,4.0,4
+Reno,Signmaking,1,5.0,1
+Reno,Specialty Schools,0,4.666666666666667,3
+Reno,Sporting Goods,0,5.0,1
+Reno,Steakhouses,1,5.0,1
+Reno,Sushi Bars,0,4.111111111111111,9
+Reno,Sushi Bars,1,4.0,4
+Reno,Tattoo,0,5.0,1
+Reno,Tires,0,5.0,1
+Reno,Venues & Event Spaces,1,3.0,2
+Reno,Vietnamese,0,4.0,1
+Reno,Vietnamese,1,4.0,1
+Reno,Wigs,0,5.0,1
+Reno,Wine Bars,0,4.0,1
+Reno,Wine Bars,1,4.5,2
+Ridley Park,Diners,0,4.0,1
+Ridley Park,Diners,1,1.0,1
+Ridley Park,Restaurants,0,5.0,1
+Riverton,Hair Removal,0,5.0,1
+Riverview,Asian Fusion,1,4.0,1
+Riverview,Food,0,4.0,1
+Riverview,Nightlife,0,3.5,2
+Riverview,Nightlife,1,3.5,2
+Riverview,Restaurants,0,4.0,1
+Rock Hill,Automotive,0,5.0,2
+Rockledge,Sandwiches,0,5.0,1
+Rockledge,Sandwiches,1,4.5,2
+Rosemont,Restaurants,0,4.0,1
+Royersford,Bagels,0,3.0,3
+Royersford,Bagels,1,4.0,1
+Royersford,Food,0,1.0,1
+Royersford,Ice Cream & Frozen Yogurt,0,1.0,1
+Royersford,Ice Cream & Frozen Yogurt,1,4.0,1
+Royersford,Restaurants,0,3.375,8
+Royersford,Restaurants,1,5.0,4
+Runnemede,Restaurants,0,3.0,7
+Runnemede,Restaurants,1,2.6666666666666665,3
+Ruskin,Breakfast & Brunch,0,4.0,1
+Ruskin,Breakfast & Brunch,1,1.0,1
+Ruskin,Kebab,1,5.0,2
+Safety Harbor,American (Traditional),0,2.0,1
+Safety Harbor,Greek,0,3.0,1
+Safety Harbor,Greek,1,4.0,2
+Safety Harbor,Hot Dogs,0,3.75,4
+Safety Harbor,Restaurants,0,3.5,4
+Safety Harbor,Restaurants,1,3.0,1
+Safety Harbor,Southern,0,2.0,1
+Safety Harbor,Southern,1,4.0,1
+Sahuarita,Burgers,0,2.0,1
+Saint Albert,Chinese,1,4.0,1
+Saint Ann,American (Traditional),0,3.0,3
+Saint Charles,American (Traditional),0,5.0,1
+Saint Charles,Beer,0,4.0,1
+Saint Louis,Active Life,0,1.0,1
+Saint Louis,Active Life,1,4.0,1
+Saint Louis,American (New),0,3.6153846153846154,13
+Saint Louis,American (New),1,3.0,1
+Saint Louis,American (Traditional),0,4.0,6
+Saint Louis,American (Traditional),1,4.666666666666667,3
+Saint Louis,Animal Shelters,0,5.0,1
+Saint Louis,Arts & Entertainment,0,3.6666666666666665,3
+Saint Louis,Arts & Entertainment,1,4.0,2
+Saint Louis,Asian Fusion,0,3.5,2
+Saint Louis,Asian Fusion,1,3.0,1
+Saint Louis,Auto Repair,0,4.0,1
+Saint Louis,Automotive,0,4.0,1
+Saint Louis,Bakeries,0,4.222222222222222,18
+Saint Louis,Bakeries,1,3.875,8
+Saint Louis,Bars,0,3.7941176470588234,34
+Saint Louis,Bars,1,3.6153846153846154,13
+Saint Louis,Basque,0,4.333333333333333,9
+Saint Louis,Basque,1,4.4,5
+Saint Louis,Beauty & Spas,0,4.0,1
+Saint Louis,Beer,0,5.0,1
+Saint Louis,Breweries,0,4.333333333333333,3
+Saint Louis,Breweries,1,4.0,3
+Saint Louis,Brewing Supplies,0,5.0,1
+Saint Louis,Burgers,0,4.0,8
+Saint Louis,Burgers,1,4.0,3
+Saint Louis,Cafes,0,4.75,4
+Saint Louis,Cafes,1,4.0,5
+Saint Louis,Car Dealers,1,1.0,1
+Saint Louis,Chicken Wings,0,3.0,3
+Saint Louis,Chinese,0,3.25,4
+Saint Louis,Chinese,1,4.0,1
+Saint Louis,Cinema,0,3.5,2
+Saint Louis,Cinema,1,4.0,1
+Saint Louis,Coffee & Tea,1,2.0,1
+Saint Louis,Cosmetics & Beauty Supply,0,5.0,1
+Saint Louis,Cosmetics & Beauty Supply,1,4.0,1
+Saint Louis,Dance Clubs,1,4.0,1
+Saint Louis,Delis,0,4.7,30
+Saint Louis,Delis,1,4.25,4
+Saint Louis,Department Stores,1,4.0,1
+Saint Louis,Desserts,0,3.6363636363636362,11
+Saint Louis,Desserts,1,4.25,4
+Saint Louis,Dive Bars,0,4.5,2
+Saint Louis,Dive Bars,1,4.0,1
+Saint Louis,Donuts,0,5.0,10
+Saint Louis,Donuts,1,3.6666666666666665,6
+Saint Louis,Education,0,4.0,2
+Saint Louis,Ethnic Food,0,4.0,4
+Saint Louis,Ethnic Food,1,5.0,1
+Saint Louis,Event Planning & Services,0,4.0,6
+Saint Louis,Fashion,0,3.0,1
+Saint Louis,Fashion,1,5.0,1
+Saint Louis,Fast Food,0,3.3333333333333335,3
+Saint Louis,Fast Food,1,5.0,1
+Saint Louis,Financial Advising,0,5.0,1
+Saint Louis,Food,0,3.8823529411764706,34
+Saint Louis,Food,1,3.8333333333333335,6
+Saint Louis,Food Delivery Services,0,3.0,1
+Saint Louis,French,0,2.5,2
+Saint Louis,Furniture Stores,0,5.0,1
+Saint Louis,Furniture Stores,1,5.0,1
+Saint Louis,Gas Stations,0,4.0,4
+Saint Louis,Gluten-Free,0,3.4285714285714284,7
+Saint Louis,Gluten-Free,1,4.0,2
+Saint Louis,Hair Salons,1,2.0,1
+Saint Louis,Home & Garden,0,5.0,2
+Saint Louis,Home Decor,0,5.0,1
+Saint Louis,Home Services,0,3.3333333333333335,3
+Saint Louis,Hospitals,0,5.0,1
+Saint Louis,Hotels,0,3.3333333333333335,3
+Saint Louis,Hotels,1,2.0,1
+Saint Louis,Hotels & Travel,0,2.3333333333333335,3
+Saint Louis,Hotels & Travel,1,1.0,1
+Saint Louis,Ice Cream & Frozen Yogurt,0,4.1923076923076925,78
+Saint Louis,Ice Cream & Frozen Yogurt,1,4.24,25
+Saint Louis,Indian,0,4.2,5
+Saint Louis,Indian,1,4.0,1
+Saint Louis,Italian,0,4.111111111111111,18
+Saint Louis,Italian,1,4.6,5
+Saint Louis,Landmarks & Historical Buildings,0,5.0,1
+Saint Louis,Local Flavor,0,3.925925925925926,27
+Saint Louis,Local Flavor,1,4.2727272727272725,11
+Saint Louis,Local Services,0,4.0,2
+Saint Louis,Lounges,0,2.5,2
+Saint Louis,Lounges,1,3.6666666666666665,3
+Saint Louis,Makeup Artists,0,5.0,1
+Saint Louis,Mediterranean,0,3.857142857142857,7
+Saint Louis,Mediterranean,1,5.0,1
+Saint Louis,Men's Clothing,0,4.0,3
+Saint Louis,Mexican,0,3.0,3
+Saint Louis,Mexican,1,4.0,1
+Saint Louis,Modern European,0,4.5,4
+Saint Louis,Modern European,1,2.0,1
+Saint Louis,Music Venues,0,4.142857142857143,7
+Saint Louis,Music Venues,1,5.0,1
+Saint Louis,Nail Salons,0,4.4,5
+Saint Louis,Nail Salons,1,4.666666666666667,3
+Saint Louis,Nail Technicians,1,1.0,1
+Saint Louis,Nightlife,0,4.111111111111111,27
+Saint Louis,Nightlife,1,4.125,8
+Saint Louis,Nurseries & Gardening,0,5.0,2
+Saint Louis,Nurseries & Gardening,1,2.0,1
+Saint Louis,Parent Cafes,1,3.0,1
+Saint Louis,Parks,0,4.0,3
+Saint Louis,Parks,1,5.0,1
+Saint Louis,Pet Stores,0,3.8,5
+Saint Louis,Pet Stores,1,3.0,2
+Saint Louis,Pets,0,5.0,1
+Saint Louis,Pilates,0,5.0,1
+Saint Louis,Pizza,0,3.823529411764706,17
+Saint Louis,Pizza,1,3.75,4
+Saint Louis,Pubs,0,4.142857142857143,7
+Saint Louis,Pubs,1,3.6666666666666665,3
+Saint Louis,Restaurants,0,3.625,80
+Saint Louis,Restaurants,1,3.3214285714285716,28
+Saint Louis,Sandwiches,0,4.0,1
+Saint Louis,Sandwiches,1,5.0,1
+Saint Louis,Shipping Centers,0,3.5,2
+Saint Louis,Shipping Centers,1,1.0,1
+Saint Louis,Shopping,0,4.4,5
+Saint Louis,Shopping,1,5.0,1
+Saint Louis,Sporting Goods,0,3.5,2
+Saint Louis,Sports Bars,0,3.5,4
+Saint Louis,Street Vendors,0,4.333333333333333,3
+Saint Louis,Tapas/Small Plates,0,3.3333333333333335,3
+Saint Louis,Tapas/Small Plates,1,3.0,2
+Saint Louis,Television Service Providers,0,1.0,2
+Saint Louis,Television Service Providers,1,1.0,1
+Saint Louis,Thai,0,3.1818181818181817,11
+Saint Louis,Thai,1,3.5,4
+Saint Louis,Trainers,0,5.0,1
+Saint Louis,Venues & Event Spaces,1,4.0,2
+Saint Louis,Wine Bars,0,4.285714285714286,14
+Saint Louis,Wine Bars,1,3.6666666666666665,12
+Saint Pete Beach,American (New),0,4.0,1
+Saint Pete Beach,American (New),1,4.0,1
+Saint Pete Beach,American (Traditional),0,3.142857142857143,7
+Saint Pete Beach,American (Traditional),1,4.5,2
+Saint Pete Beach,Bars,0,4.333333333333333,6
+Saint Petersburg,Active Life,0,5.0,1
+Saint Petersburg,American (Traditional),0,4.5,2
+Saint Petersburg,American (Traditional),1,4.0,1
+Saint Petersburg,Appliances,0,1.0,1
+Saint Petersburg,Bars,0,4.333333333333333,3
+Saint Petersburg,Beauty & Spas,0,3.5,2
+Saint Petersburg,Bed & Breakfast,0,4.5,2
+Saint Petersburg,Books,0,3.0,1
+Saint Petersburg,Breakfast & Brunch,0,4.0,2
+Saint Petersburg,Breakfast & Brunch,1,1.0,1
+Saint Petersburg,Chicken Wings,0,2.0,1
+Saint Petersburg,Coffee & Tea,0,3.25,4
+Saint Petersburg,Coffee & Tea,1,4.0,2
+Saint Petersburg,Diners,0,4.5,2
+Saint Petersburg,Diners,1,4.0,4
+Saint Petersburg,Fast Food,0,4.5,4
+Saint Petersburg,Fast Food,1,3.5,2
+Saint Petersburg,Food,0,5.0,4
+Saint Petersburg,Food,1,1.0,2
+Saint Petersburg,Home & Garden,0,5.0,1
+Saint Petersburg,Japanese,0,1.0,1
+Saint Petersburg,Local Flavor,0,5.0,3
+Saint Petersburg,Mexican,0,4.0,1
+Saint Petersburg,Nightlife,0,5.0,2
+Saint Petersburg,Nightlife,1,5.0,2
+Saint Petersburg,Pets,0,5.0,1
+Saint Petersburg,Pubs,0,4.0,1
+Saint Petersburg,Pubs,1,5.0,1
+Saint Petersburg,Ramen,0,5.0,1
+Saint Petersburg,Restaurants,0,4.5,8
+Saint Petersburg,Restaurants,1,4.25,4
+Saint Petersburg,Salad,1,4.0,1
+Saint Petersburg,Sandwiches,0,4.0,5
+Saint Petersburg,Sandwiches,1,5.0,2
+Saint Petersburg,Seafood,0,4.0,1
+Saint Petersburg,Shopping,0,3.0,2
+Saint Petersburg,Shopping,1,3.0,3
+Saint Petersburg,Specialty Food,0,4.7368421052631575,19
+Saint Petersburg,Specialty Food,1,5.0,5
+Saint Petersburg,Steakhouses,0,2.0,1
+Saint Petersburg,Steakhouses,1,2.5,2
+Saint Petersburg,Sushi Bars,0,4.0,1
+Saint Petersburg,Trailer Dealers,0,5.0,1
+Saint Petersburg,Wineries,0,5.0,1
+Santa Barbara,Accessories,1,5.0,1
+Santa Barbara,Active Life,0,5.0,1
+Santa Barbara,American (New),0,5.0,1
+Santa Barbara,American (New),1,3.6666666666666665,3
+Santa Barbara,American (Traditional),0,4.4,10
+Santa Barbara,American (Traditional),1,5.0,4
+Santa Barbara,Bars,0,3.0,3
+Santa Barbara,Beauty & Spas,0,3.0,4
+Santa Barbara,Beauty & Spas,1,4.666666666666667,3
+Santa Barbara,Beer,0,5.0,2
+Santa Barbara,Beer,1,4.0,1
+Santa Barbara,Brazilian Jiu-jitsu,0,5.0,1
+Santa Barbara,Breakfast & Brunch,1,3.0,1
+Santa Barbara,Coffee & Tea,0,4.2,5
+Santa Barbara,Coffee & Tea,1,4.0,1
+Santa Barbara,Cosmetics & Beauty Supply,0,4.0,3
+Santa Barbara,Courthouses,1,4.5,2
+Santa Barbara,Event Planning & Services,0,3.5,8
+Santa Barbara,Food,0,5.0,3
+Santa Barbara,Food Delivery Services,0,3.0,1
+Santa Barbara,Food Delivery Services,1,4.5,2
+Santa Barbara,Food Stands,0,2.6666666666666665,3
+Santa Barbara,German,0,5.0,1
+Santa Barbara,Grocery,0,4.0,1
+Santa Barbara,Hair Salons,0,5.0,2
+Santa Barbara,Health Markets,0,4.0,2
+Santa Barbara,Health Markets,1,3.0,1
+Santa Barbara,Home & Garden,0,4.0,1
+Santa Barbara,Home Services,0,4.0,1
+Santa Barbara,Hot Dogs,0,3.8,5
+Santa Barbara,Hotels & Travel,0,5.0,1
+Santa Barbara,Hotels & Travel,1,3.0,1
+Santa Barbara,Laundry Services,0,3.0,1
+Santa Barbara,Live/Raw Food,0,4.125,8
+Santa Barbara,Live/Raw Food,1,4.0,2
+Santa Barbara,Local Services,0,5.0,2
+Santa Barbara,Mexican,0,4.0,2
+Santa Barbara,Mexican,1,4.5,2
+Santa Barbara,Nightlife,0,3.857142857142857,7
+Santa Barbara,Notaries,0,5.0,1
+Santa Barbara,Party & Event Planning,0,5.0,1
+Santa Barbara,Performing Arts,0,4.0,1
+Santa Barbara,Performing Arts,1,4.0,1
+Santa Barbara,Pizza,0,4.0,4
+Santa Barbara,Post Offices,0,4.0,1
+Santa Barbara,Post Offices,1,4.0,1
+Santa Barbara,Restaurants,0,3.857142857142857,7
+Santa Barbara,Restaurants,1,3.75,4
+Santa Barbara,Sandwiches,0,4.0,1
+Santa Barbara,Seafood,0,3.0,1
+Santa Barbara,Seafood,1,4.0,1
+Santa Barbara,Shopping,0,2.0,1
+Santa Barbara,Steakhouses,0,4.0,8
+Santa Barbara,Steakhouses,1,3.5,2
+Santa Barbara,Sushi Bars,0,5.0,1
+Santa Barbara,Sushi Bars,1,4.0,1
+Santa Barbara,Tapas/Small Plates,0,3.0,2
+Santa Barbara,Thai,0,4.0,1
+Santa Barbara,Vape Shops,1,4.0,1
+Santa Barbara,Wine Bars,0,4.5,2
+Santa Barbara,Wine Bars,1,4.0,1
+Secane,Pizza,0,4.0,1
+Sellersville,American (New),0,5.0,1
+Sellersville,Fruits & Veggies,0,5.0,1
+Seminole,American (New),0,4.5,2
+Seminole,American (New),1,1.0,1
+Seminole,Beauty & Spas,0,5.0,1
+Seminole,Fast Food,0,2.0,2
+Seminole,Salad,0,3.75,4
+Seminole,Specialty Food,1,4.0,1
+Sewell,Coffee & Tea,0,4.0,1
+Sewell,Food,1,4.0,1
+Shamong,Caterers,0,4.0,1
+Sherwood Park,Barbeque,1,2.0,2
+Sherwood Park,Burgers,0,5.0,2
+Sherwood Park,Day Spas,0,5.0,1
+Sherwood Park,Day Spas,1,4.0,1
+Sherwood Park,Nightlife,0,3.0,1
+Sherwood Park,Nurseries & Gardening,0,4.0,1
+Sherwood Park,Restaurants,0,3.0,1
+Sherwood Park,Soup,0,4.0,1
+Shrewsbury,Tapas Bars,0,5.0,1
+Shrewsbury,Tapas Bars,1,4.0,1
+Sicklerville,American (Traditional),0,1.6666666666666667,3
+Sicklerville,American (Traditional),1,2.0,1
+Sicklerville,Fast Food,0,3.0,2
+Sicklerville,Food,0,5.0,1
+Sicklerville,Noodles,0,5.0,1
+Sicklerville,Noodles,1,4.0,1
+Sicklerville,Restaurants,0,2.6666666666666665,3
+Sicklerville,Steakhouses,0,4.0,1
+Sicklerville,Steakhouses,1,4.0,1
+Skippack,Restaurants,1,4.0,1
+Smyrna,Cafes,0,1.0,1
+Smyrna,Cajun/Creole,0,4.0,2
+Smyrna,Fashion,0,5.0,2
+Smyrna,Fashion,1,4.5,2
+Smyrna,Fast Food,0,4.0,1
+Smyrna,Fast Food,1,4.0,1
+Smyrna,Food,1,4.0,1
+Smyrna,Laotian,0,5.0,1
+Smyrna,Pizza,0,1.0,1
+Smyrna,Restaurants,1,2.0,2
+Smyrna,Steakhouses,1,2.0,1
+Smyrna,Sushi Bars,0,3.6666666666666665,3
+Smyrna,Sushi Bars,1,5.0,1
+Somerdale,Beer Bar,0,4.0,1
+Souderton,Beauty & Spas,0,5.0,1
+South Pasadena,Seafood,0,3.5,8
+South Pasadena,Seafood,1,4.0,2
+Southampton,Car Wash,0,4.0,1
+Southampton,Car Wash,1,3.0,1
+Southampton,Restaurants,0,4.842105263157895,19
+Southampton,Restaurants,1,4.4,5
+Sparks,American (New),0,5.0,1
+Sparks,Automotive,0,3.0,2
+Sparks,Bars,0,3.0,2
+Sparks,Bars,1,4.0,1
+Sparks,Beauty & Spas,0,5.0,1
+Sparks,Beauty & Spas,1,5.0,1
+Sparks,Burgers,0,4.0,1
+Sparks,Burgers,1,4.0,1
+Sparks,Carpeting,0,5.0,1
+Sparks,Casinos,0,3.6666666666666665,3
+Sparks,Customized Merchandise,0,1.0,1
+Sparks,Customized Merchandise,1,5.0,1
+Sparks,Fast Food,0,3.5,2
+Sparks,Fitness & Instruction,0,5.0,1
+Sparks,Food,0,3.3333333333333335,3
+Sparks,Furniture Stores,0,4.0,3
+Sparks,Grocery,0,4.0,1
+Sparks,Hair Salons,0,1.0,1
+Sparks,Hair Salons,1,4.0,1
+Sparks,Ice Cream & Frozen Yogurt,0,1.0,1
+Sparks,Ice Cream & Frozen Yogurt,1,3.0,1
+Sparks,Local Flavor,0,4.5,6
+Sparks,Local Flavor,1,4.0,1
+Sparks,Mobile Phones,0,3.0,1
+Sparks,Nightlife,0,4.0,1
+Sparks,Pets,0,4.0,1
+Sparks,Pizza,0,4.0,2
+Sparks,Pizza,1,4.0,1
+Sparks,Restaurants,0,3.3846153846153846,13
+Sparks,Restaurants,1,4.666666666666667,3
+Sparks,Shopping,0,2.0,1
+Speedway,American (New),0,4.2,5
+Speedway,American (New),1,3.3333333333333335,3
+Spring City,Golf,1,3.0,1
+Spring City,Mexican,0,4.0,1
+Spring City,Mexican,1,3.0,1
+Spring City,Performing Arts,0,5.0,2
+Spring City,Performing Arts,1,5.0,1
+Spring Hill,Delis,0,4.0,1
+Spring Hill,Pizza,0,4.0,1
+Spring Hill,Restaurants,0,5.0,1
+Spring Hill,Thai,0,5.0,2
+Spring Hill,Thai,1,5.0,1
+Spring House,Italian,0,4.0,2
+Springfield,Bars,0,2.0,1
+Springfield,Bars,1,3.6666666666666665,3
+Springfield,Coffee & Tea,0,3.0,1
+Springfield,Event Planning & Services,0,3.6666666666666665,3
+Springfield,Event Planning & Services,1,3.0,1
+Springfield,Fashion,0,2.5,2
+Springfield,Home Decor,0,3.6666666666666665,3
+Springfield,Italian,0,2.0,1
+Springfield,Mexican,0,5.0,1
+Springfield,Mexican,1,4.0,2
+Springfield,Restaurants,0,4.0,8
+Springfield,Restaurants,1,3.8333333333333335,6
+Springfield,Sports Bars,0,2.25,8
+Springfield,Sports Bars,1,3.5,2
+Springfield,Sushi Bars,0,5.0,1
+Springfield,Sushi Bars,1,3.0,1
+Springfield,Tires,1,4.0,1
+St Albert,Vietnamese,1,2.0,1
+St Charles,Barbeque,1,5.0,1
+St Charles,Food,0,3.5,2
+St Charles,Food,1,3.75,4
+St Charles,Seafood,0,5.0,1
+St Louis,Auto Detailing,1,5.0,1
+St Louis,Bars,0,3.6,10
+St Louis,Bars,1,4.5,2
+St Louis,Car Rental,0,4.0,1
+St Louis,Car Rental,1,4.0,1
+St Louis,Dance Clubs,0,4.5,6
+St Louis,Fast Food,0,5.0,1
+St Louis,Food,0,5.0,1
+St Louis,Hotels,0,4.0,1
+St Louis,Japanese,0,4.555555555555555,9
+St Louis,Japanese,1,4.0,1
+St Louis,Mediterranean,0,3.857142857142857,7
+St Louis,Mediterranean,1,3.25,4
+St Louis,Nightlife,0,5.0,1
+St Louis,Restaurants,0,2.0,1
+St Louis,Restaurants,1,4.0,1
+St Louis,Specialty Food,0,5.0,1
+St Louis Downtown,Automotive,0,5.0,1
+St Pete Beach,Ice Cream & Frozen Yogurt,0,4.0,1
+St Pete Beach,Italian,0,5.0,1
+St Pete Beach,Local Flavor,0,3.3333333333333335,3
+St Petersburg,American (Traditional),1,5.0,1
+St Petersburg,Apartments,0,5.0,1
+St Petersburg,Apartments,1,1.0,1
+St Petersburg,Bars,0,4.304347826086956,23
+St Petersburg,Bars,1,4.111111111111111,9
+St Petersburg,Bookstores,0,4.5,6
+St Petersburg,Bookstores,1,4.0,3
+St Petersburg,Event Planning & Services,1,4.0,1
+St Petersburg,Nurseries & Gardening,0,4.0,1
+St Petersburg,Nurseries & Gardening,1,4.0,1
+St Petersburg,Print Media,1,3.0,1
+St Petersburg,Restaurants,0,2.5,2
+St Petersburg,Restaurants,1,4.5,2
+St Petersburg,Soul Food,0,4.0,3
+St Petersburg,Soul Food,1,5.0,1
+St Petersburg,Wine Bars,1,4.75,8
+St. Louis,American (New),0,3.0,1
+St. Louis,American (Traditional),0,4.0,1
+St. Louis,Bakeries,0,4.0,3
+St. Louis,Bakeries,1,1.0,1
+St. Louis,Bars,0,4.5,2
+St. Louis,Bars,1,3.0,1
+St. Louis,Chiropractors,1,5.0,1
+St. Louis,Desserts,0,3.6666666666666665,3
+St. Louis,Event Planning & Services,0,4.333333333333333,3
+St. Louis,Fast Food,1,3.0,1
+St. Louis,Food,0,3.4,5
+St. Louis,Food,1,4.333333333333333,3
+St. Louis,Hotels & Travel,0,3.0,2
+St. Louis,Ice Cream & Frozen Yogurt,0,5.0,1
+St. Louis,Italian,0,2.6666666666666665,3
+St. Louis,Optometrists,0,4.0,1
+St. Louis,Pizza,0,3.888888888888889,9
+St. Louis,Pizza,1,3.5,4
+St. Louis,Restaurants,0,4.5,4
+St. Louis,Restaurants,1,3.6666666666666665,3
+St. Louis,Sushi Bars,0,5.0,2
+St. Louis,Sushi Bars,1,5.0,1
+St. Louis,Windows Installation,0,4.0,1
+St. Pete Beach,Bars,0,3.5,2
+St. Pete Beach,Nightlife,1,3.0,1
+St. Pete Beach,Restaurants,0,4.25,4
+St. Petersburg,Active Life,0,3.5,2
+St. Petersburg,Active Life,1,4.0,1
+St. Petersburg,Airport Shuttles,0,5.0,1
+St. Petersburg,American (Traditional),0,4.0,2
+St. Petersburg,American (Traditional),1,4.5,4
+St. Petersburg,Arts & Entertainment,0,4.0,1
+St. Petersburg,Automotive,0,4.0,1
+St. Petersburg,Beauty & Spas,0,5.0,1
+St. Petersburg,Beer,0,4.5,2
+St. Petersburg,Beer,1,2.3333333333333335,3
+St. Petersburg,Blow Dry/Out Services,0,5.0,5
+St. Petersburg,Blow Dry/Out Services,1,4.0,1
+St. Petersburg,Coffee & Tea,0,5.0,1
+St. Petersburg,Convenience Stores,0,5.0,1
+St. Petersburg,Convenience Stores,1,5.0,1
+St. Petersburg,Cuban,0,2.5,2
+St. Petersburg,Cuban,1,5.0,1
+St. Petersburg,Dance Clubs,0,3.0,1
+St. Petersburg,Event Planning & Services,0,4.0,2
+St. Petersburg,Food,0,4.625,8
+St. Petersburg,Food,1,4.2,5
+St. Petersburg,Gas Stations,0,1.0,1
+St. Petersburg,Grocery,1,4.0,1
+St. Petersburg,Hair Salons,1,5.0,1
+St. Petersburg,Hotels & Travel,0,2.0,1
+St. Petersburg,Ice Cream & Frozen Yogurt,0,5.0,1
+St. Petersburg,Juice Bars & Smoothies,0,4.5,2
+St. Petersburg,Laundry Services,1,5.0,1
+St. Petersburg,Nightlife,0,2.3333333333333335,3
+St. Petersburg,Restaurants,0,3.6470588235294117,17
+St. Petersburg,Restaurants,1,3.25,8
+St. Petersburg,Sandwiches,0,4.1,10
+St. Petersburg,Sandwiches,1,4.333333333333333,3
+St. Petersburg,Steakhouses,0,4.0,2
+St. Petersburg,Steakhouses,1,4.0,1
+Staint Albert,Arts & Entertainment,1,1.0,1
+Sun City Center,Home Services,0,5.0,1
+Sunset Hills,Food Delivery Services,0,5.0,1
+Swarthmore,Restaurants,0,4.0,1
+Swedesboro,Restaurants,0,5.0,1
+Swedesboro,Restaurants,1,3.5,2
+TAMPA,Breakfast & Brunch,0,2.6666666666666665,3
+TAMPA,Restaurants,1,3.0,1
+Tampa,Active Life,0,4.5,2
+Tampa,Active Life,1,2.5,2
+Tampa,African,0,3.7,10
+Tampa,African,1,3.5,2
+Tampa,American (New),0,3.7333333333333334,15
+Tampa,American (New),1,4.285714285714286,7
+Tampa,American (Traditional),0,3.272727272727273,11
+Tampa,American (Traditional),1,4.5,6
+Tampa,Appliances,0,1.0,1
+Tampa,Arts & Entertainment,0,4.666666666666667,3
+Tampa,Arts & Entertainment,1,5.0,1
+Tampa,Asian Fusion,0,4.333333333333333,3
+Tampa,Asian Fusion,1,4.0,4
+Tampa,Auto Detailing,0,5.0,2
+Tampa,Auto Parts & Supplies,0,2.375,8
+Tampa,Auto Parts & Supplies,1,1.0,1
+Tampa,Automotive,0,3.0,1
+Tampa,Bakeries,1,5.0,1
+Tampa,Barbeque,0,3.75,4
+Tampa,Barbeque,1,2.6666666666666665,3
+Tampa,Bars,0,3.909090909090909,22
+Tampa,Bars,1,3.875,8
+Tampa,Beauty & Spas,0,4.25,4
+Tampa,Beauty & Spas,1,4.666666666666667,3
+Tampa,Beer,0,4.0,2
+Tampa,Beer,1,4.0,1
+Tampa,Boat Repair,0,5.0,2
+Tampa,Breakfast & Brunch,0,3.4,5
+Tampa,Breakfast & Brunch,1,1.0,1
+Tampa,Breweries,0,4.25,4
+Tampa,Breweries,1,5.0,1
+Tampa,British,0,3.0,1
+Tampa,Burgers,1,3.0,1
+Tampa,Cafes,0,4.666666666666667,3
+Tampa,Cafes,1,3.5,2
+Tampa,Candy Stores,1,4.0,1
+Tampa,Car Stereo Installation,0,5.0,1
+Tampa,Caterers,0,2.0,3
+Tampa,Caterers,1,3.0,2
+Tampa,Chicken Wings,0,4.0,1
+Tampa,Chicken Wings,1,3.5,2
+Tampa,Chinese,0,2.0,2
+Tampa,Chinese,1,3.0,2
+Tampa,Cinema,0,3.4285714285714284,7
+Tampa,Cinema,1,3.4285714285714284,7
+Tampa,Coffee & Tea,0,3.7777777777777777,9
+Tampa,Coffee & Tea,1,3.0,2
+Tampa,Coffee Roasteries,0,5.0,1
+Tampa,Comedy Clubs,0,3.75,8
+Tampa,Comedy Clubs,1,4.0,1
+Tampa,Costumes,0,4.0,2
+Tampa,Criminal Defense Law,0,5.0,1
+Tampa,Delis,0,4.0,1
+Tampa,Delis,1,3.6,5
+Tampa,Desserts,0,3.5,6
+Tampa,Discount Store,0,2.5,2
+Tampa,Doctors,0,3.0,1
+Tampa,Donuts,0,4.0,1
+Tampa,Dry Cleaning,0,5.0,1
+Tampa,Ethnic Food,0,4.0,4
+Tampa,Ethnic Food,1,4.0,1
+Tampa,Event Planning & Services,0,3.4,5
+Tampa,Event Planning & Services,1,4.0,1
+Tampa,Eyelash Service,0,5.0,1
+Tampa,Family Practice,0,5.0,1
+Tampa,Fashion,0,3.5,2
+Tampa,Fashion,1,3.0,1
+Tampa,Fast Food,0,4.0,2
+Tampa,Fast Food,1,2.0,1
+Tampa,Filipino,0,3.4,5
+Tampa,Filipino,1,3.0,1
+Tampa,Food,0,3.7666666666666666,30
+Tampa,Food,1,3.7142857142857144,14
+Tampa,Gluten-Free,0,4.666666666666667,3
+Tampa,Gluten-Free,1,4.0,1
+Tampa,Greek,0,3.3333333333333335,6
+Tampa,Greek,1,4.0,4
+Tampa,Grocery,0,4.0,6
+Tampa,Head Shops,0,4.5,8
+Tampa,Head Shops,1,5.0,1
+Tampa,Health & Medical,0,5.0,2
+Tampa,Home & Garden,0,2.0,1
+Tampa,Home & Garden,1,4.0,2
+Tampa,Home Services,0,5.0,2
+Tampa,Home Services,1,5.0,1
+Tampa,Hotels & Travel,0,4.666666666666667,3
+Tampa,Hotels & Travel,1,1.0,1
+Tampa,Ice Cream & Frozen Yogurt,0,4.133333333333334,15
+Tampa,Ice Cream & Frozen Yogurt,1,4.0,3
+Tampa,Irish Pub,0,4.0,1
+Tampa,Italian,0,3.3333333333333335,3
+Tampa,Italian,1,3.0,3
+Tampa,Japanese,0,4.333333333333333,3
+Tampa,Japanese,1,4.75,4
+Tampa,Jewelry,0,4.0,1
+Tampa,Juice Bars & Smoothies,0,3.3333333333333335,3
+Tampa,Kebab,1,5.0,1
+Tampa,Korean,0,3.8,5
+Tampa,Korean,1,2.5,2
+Tampa,Laotian,0,4.0,2
+Tampa,Laotian,1,5.0,1
+Tampa,Latin American,0,4.625,8
+Tampa,Latin American,1,3.75,4
+Tampa,Local Flavor,0,4.333333333333333,3
+Tampa,Local Flavor,1,4.25,4
+Tampa,Local Services,1,5.0,1
+Tampa,Lounges,0,3.3333333333333335,3
+Tampa,Lounges,1,5.0,1
+Tampa,Medical Spas,0,5.0,1
+Tampa,Meditation Centers,0,4.5,2
+Tampa,Mexican,0,3.6666666666666665,18
+Tampa,Mexican,1,4.333333333333333,9
+Tampa,Middle Eastern,0,3.3333333333333335,3
+Tampa,Middle Eastern,1,2.0,1
+Tampa,Mobile Phone Accessories,0,4.0,1
+Tampa,Mobile Phone Accessories,1,5.0,1
+Tampa,Modern European,1,3.0,1
+Tampa,Music Venues,0,3.5,8
+Tampa,Music Venues,1,3.3333333333333335,3
+Tampa,Nail Salons,0,5.0,2
+Tampa,Nightlife,0,4.3,10
+Tampa,Nightlife,1,4.2,5
+Tampa,Peruvian,0,4.0,11
+Tampa,Peruvian,1,3.6,5
+Tampa,Pet Groomers,0,5.0,1
+Tampa,Pet Sitting,0,4.0,1
+Tampa,Pets,0,3.0,2
+Tampa,Pets,1,4.0,2
+Tampa,Pizza,0,4.0,4
+Tampa,Pizza,1,3.0,1
+Tampa,Post Offices,0,5.0,1
+Tampa,Puerto Rican,0,4.0,1
+Tampa,Real Estate,0,5.0,1
+Tampa,Restaurants,0,3.717948717948718,78
+Tampa,Restaurants,1,3.8653846153846154,52
+Tampa,Salad,0,3.5,4
+Tampa,Salad,1,5.0,1
+Tampa,Sandwiches,0,3.5833333333333335,12
+Tampa,Sandwiches,1,3.3333333333333335,9
+Tampa,Seafood,1,4.0,1
+Tampa,Shoe Stores,1,4.0,1
+Tampa,Shopping,0,4.0,4
+Tampa,Shopping,1,3.3333333333333335,6
+Tampa,Skin Care,0,4.0,1
+Tampa,Soup,0,5.0,1
+Tampa,Southern,0,3.0,1
+Tampa,Southern,1,4.5,2
+Tampa,Specialty Food,0,4.0,5
+Tampa,Specialty Food,1,5.0,1
+Tampa,Sports Clubs,0,5.0,1
+Tampa,Steakhouses,0,3.0,6
+Tampa,Steakhouses,1,4.0,3
+Tampa,Street Vendors,0,4.142857142857143,7
+Tampa,Street Vendors,1,4.333333333333333,3
+Tampa,Sushi Bars,0,3.888888888888889,9
+Tampa,Sushi Bars,1,3.6,5
+Tampa,Telecommunications,0,3.0,2
+Tampa,Tex-Mex,0,5.0,1
+Tampa,Tires,0,2.75,4
+Tampa,Toy Stores,1,4.0,1
+Tampa,Used,0,5.0,1
+Tampa,Venues & Event Spaces,0,4.0,4
+Tampa,Vietnamese,0,3.3333333333333335,3
+Tampa,Vietnamese,1,5.0,2
+Tampa,Vinyl Records,0,4.0,1
+Tampa,Windshield Installation & Repair,0,2.0,1
+Tampa,Wine Bars,0,3.25,4
+Tampa,Wine Bars,1,3.0,1
+Tampa Bay,Barbeque,0,4.5,2
+Tampa Bay,Barbeque,1,4.0,1
+Tampa Bay,Restaurants,0,5.0,1
+Tampa Bay,Restaurants,1,5.0,1
+Tarpon Springs,Cosmetics & Beauty Supply,0,5.0,1
+Tarpon Springs,Food,0,4.384615384615385,13
+Tarpon Springs,Food,1,4.1,10
+Tarpon Springs,Hot Dogs,0,4.0,4
+Tarpon Springs,Hot Dogs,1,1.0,1
+Tarpon Springs,Restaurants,0,3.5,2
+Tarpon Springs,Restaurants,1,3.0,1
+Tarpon Springs,Thai,0,4.0,1
+Tarpon Springs,Thai,1,5.0,1
+Tarpon Springs,Tours,0,4.0,1
+Temple Terrace,Ethiopian,0,3.25,8
+Temple Terrace,Ethiopian,1,4.0,1
+Temple Terrace,Restaurants,0,2.0,1
+Terrytown,Desserts,0,2.0,1
+Terrytown,Restaurants,0,5.0,1
+Terrytown,Restaurants,1,4.5,2
+Thorndale,Beauty & Spas,0,1.0,1
+Thorndale,Nightlife,0,2.0,1
+Thorndale,Restaurants,0,1.6666666666666667,3
+Thorndale,Restaurants,1,4.0,2
+Thorofare,Breakfast & Brunch,0,4.0,1
+Thorofare,Breakfast & Brunch,1,4.0,1
+Titusville,Active Life,0,4.0,1
+Town And Country,Event Planning & Services,0,4.0,1
+Town and Country,Internet Service Providers,0,1.0,1
+Town and Country,Pasta Shops,0,5.0,1
+Town and Country,Pasta Shops,1,5.0,1
+Trappe,American (Traditional),0,3.0,1
+Treasure Island,American (New),0,4.0,1
+Treasure Island,Restaurants,0,2.857142857142857,7
+Treasure Island,Restaurants,1,3.5,2
+Trenton,Hotels & Travel,0,4.0,1
+Trenton,Restaurants,0,4.0,1
+Trenton,Thai,0,3.0,2
+Trinity,Ethnic Food,1,5.0,1
+Trinity,Fast Food,0,3.6666666666666665,3
+Trinity,Fast Food,1,5.0,1
+Trooper,Indian,0,4.0,4
+Tucson,Active Life,0,4.6,5
+Tucson,Amateur Sports Teams,0,4.0,1
+Tucson,American (New),0,3.0,2
+Tucson,American (New),1,3.5,2
+Tucson,Art Galleries,0,4.0,3
+Tucson,Arts & Entertainment,0,4.266666666666667,15
+Tucson,Arts & Entertainment,1,3.875,8
+Tucson,Asian Fusion,0,2.25,4
+Tucson,Asian Fusion,1,3.0,2
+Tucson,Auto Glass Services,0,4.0,1
+Tucson,Auto Parts & Supplies,1,5.0,1
+Tucson,Auto Repair,0,4.0,2
+Tucson,Automotive,0,2.75,4
+Tucson,Automotive,1,4.0,2
+Tucson,Baby Gear & Furniture,0,4.0,1
+Tucson,Bakeries,0,4.5,4
+Tucson,Bakeries,1,2.0,1
+Tucson,Banks & Credit Unions,1,5.0,1
+Tucson,Bars,0,3.6363636363636362,11
+Tucson,Bars,1,3.6666666666666665,3
+Tucson,Beauty & Spas,0,5.0,1
+Tucson,Beauty & Spas,1,5.0,1
+Tucson,Beer,0,4.333333333333333,3
+Tucson,Beer,1,4.0,1
+Tucson,Bikes,0,3.6666666666666665,3
+Tucson,Books,0,4.714285714285714,7
+Tucson,Bowling,0,4.0,1
+Tucson,Breweries,0,5.0,2
+Tucson,Breweries,1,4.0,1
+Tucson,Brewpubs,0,4.0,1
+Tucson,Brewpubs,1,3.0,1
+Tucson,Bubble Tea,0,4.0,3
+Tucson,Buffets,0,1.5,2
+Tucson,Burgers,0,3.3333333333333335,3
+Tucson,Burgers,1,4.0,1
+Tucson,Cafes,0,5.0,1
+Tucson,Caterers,1,4.0,1
+Tucson,Cheesesteaks,0,4.666666666666667,3
+Tucson,Chicken Wings,0,4.0,4
+Tucson,Chicken Wings,1,2.8333333333333335,6
+Tucson,Chinese,0,3.857142857142857,7
+Tucson,Chinese,1,5.0,1
+Tucson,Cinema,0,4.0,3
+Tucson,Coffee & Tea,0,3.7,20
+Tucson,Coffee & Tea,1,4.285714285714286,7
+Tucson,Delis,0,4.5,10
+Tucson,Delis,1,4.4,5
+Tucson,Dentists,0,2.5,2
+Tucson,Department Stores,0,4.5,2
+Tucson,Department Stores,1,4.0,1
+Tucson,Desserts,0,5.0,1
+Tucson,Diners,0,4.666666666666667,3
+Tucson,Diners,1,3.6666666666666665,3
+Tucson,Doctors,0,4.0,1
+Tucson,Doctors,1,5.0,1
+Tucson,Education,0,3.0,1
+Tucson,Event Planning & Services,0,4.0,2
+Tucson,Event Planning & Services,1,3.0,4
+Tucson,Fast Food,0,4.833333333333333,6
+Tucson,Fast Food,1,4.0,1
+Tucson,Fitness & Instruction,0,5.0,1
+Tucson,Flowers & Gifts,0,4.333333333333333,3
+Tucson,Flowers & Gifts,1,3.0,3
+Tucson,Food,0,3.4545454545454546,11
+Tucson,Food,1,4.166666666666667,6
+Tucson,French,0,3.5,2
+Tucson,Furniture Stores,0,4.0,1
+Tucson,Greek,0,3.6666666666666665,3
+Tucson,Grocery,0,3.7777777777777777,9
+Tucson,Grocery,1,3.6666666666666665,3
+Tucson,Health & Medical,0,4.666666666666667,3
+Tucson,Health & Medical,1,5.0,1
+Tucson,Home Decor,0,5.0,1
+Tucson,Home Services,0,4.666666666666667,3
+Tucson,Hot Dogs,0,3.0,3
+Tucson,Hot Dogs,1,2.0,1
+Tucson,Hotels,0,4.5,2
+Tucson,Ice Cream & Frozen Yogurt,0,4.333333333333333,3
+Tucson,Ice Cream & Frozen Yogurt,1,4.0,1
+Tucson,Italian,0,4.6,5
+Tucson,Italian,1,4.5,2
+Tucson,Japanese,0,4.0,2
+Tucson,Japanese,1,3.0,1
+Tucson,Jewelry,0,4.5,2
+Tucson,Jewelry,1,5.0,1
+Tucson,Latin American,0,4.0,1
+Tucson,Laundromat,0,5.0,1
+Tucson,Local Flavor,0,3.5,2
+Tucson,Local Services,0,3.0,1
+Tucson,Massage,1,1.0,1
+Tucson,Mexican,0,3.4444444444444446,18
+Tucson,Mexican,1,3.8,5
+Tucson,Middle Eastern,0,5.0,1
+Tucson,Museums,0,3.5,2
+Tucson,Nail Salons,0,2.5,4
+Tucson,Nightlife,0,3.4545454545454546,11
+Tucson,Nightlife,1,4.25,4
+Tucson,Noodles,0,5.0,1
+Tucson,Parks,0,4.0,2
+Tucson,Parks,1,4.166666666666667,6
+Tucson,Party & Event Planning,0,4.0,1
+Tucson,Pet Groomers,0,4.0,2
+Tucson,Pet Services,0,4.333333333333333,3
+Tucson,Pet Training,0,4.5,2
+Tucson,Pet Training,1,4.0,1
+Tucson,Pets,0,5.0,4
+Tucson,Pharmacy,0,3.0,1
+Tucson,Pubs,0,4.333333333333333,3
+Tucson,Pubs,1,4.0,4
+Tucson,Restaurants,0,3.5531914893617023,94
+Tucson,Restaurants,1,3.774193548387097,31
+Tucson,Sandwiches,0,3.0,2
+Tucson,Sandwiches,1,3.5,2
+Tucson,Seafood,0,2.0,1
+Tucson,Shopping,0,3.8,5
+Tucson,Shopping,1,3.3333333333333335,3
+Tucson,Shopping Centers,0,4.666666666666667,3
+Tucson,Shopping Centers,1,5.0,1
+Tucson,Sports Bars,1,3.0,1
+Tucson,Sushi Bars,0,5.0,1
+Tucson,Tapas/Small Plates,1,4.0,1
+Tucson,Thrift Stores,0,4.5,2
+Tucson,Thrift Stores,1,5.0,1
+Tucson,Tours,0,5.0,1
+Tucson,Traditional Chinese Medicine,0,5.0,1
+Tucson,Traditional Chinese Medicine,1,5.0,1
+Tucson,Vegetarian,0,3.6666666666666665,9
+Tucson,Vegetarian,1,3.3333333333333335,6
+Tucson,Vietnamese,0,2.0,2
+Tucson,Vietnamese,1,3.0,1
+Tucson,Wine Tasting Room,0,4.0,1
+Tucson,Yoga,0,4.0,1
+Turnersville,Day Spas,0,3.0,1
+Turnersville,Donuts,0,5.0,1
+Turnersville,Shopping,0,2.0,1
+Tuscon,Restaurants,0,3.0,2
+University City,Breakfast & Brunch,0,4.0,3
+University City,Chinese,1,4.0,1
+University City,Juice Bars & Smoothies,0,4.4,5
+University City,Mexican,0,3.8333333333333335,6
+University City,Mexican,1,4.375,8
+University City,Salad,0,4.166666666666667,6
+University City,Salad,1,5.0,2
+University City,Seafood,0,4.5,2
+Upper Darby,American (New),1,4.0,1
+Upper Darby,Burgers,0,1.0,1
+Upper Darby,Car Rental,0,4.0,2
+Upper Darby,Food,0,2.5,2
+Upper Darby,Grocery,0,4.0,1
+Upper Southampton Township,Food,0,2.0,1
+Upper Southampton Township,Food,1,5.0,1
+Vail,Golf Lessons,0,4.0,1
+Valley Park,Food,0,4.0,1
+Valley Park,Food,1,4.0,1
+Valley Park,Heating & Air Conditioning/HVAC,0,5.0,1
+Valrico,Chicken Wings,1,4.0,1
+Valrico,Food,0,4.0,1
+Valrico,Italian,0,5.0,1
+Valrico,Japanese,0,5.0,1
+Valrico,Local Services,0,5.0,1
+Valrico,Sandwiches,0,4.0,1
+Verdi,Restaurants,0,4.0,1
+Voorhees,American (New),0,3.727272727272727,11
+Voorhees,American (New),1,4.0,2
+Voorhees,Bubble Tea,1,4.0,1
+Voorhees,Food,0,4.75,4
+Voorhees,Food,1,5.0,1
+Voorhees,Mexican,0,3.0,2
+Voorhees,Salad,0,3.0,1
+Voorhees Township,Ice Cream & Frozen Yogurt,0,4.0,1
+Voorhees Township,Restaurants,0,4.25,4
+Voorhees Township,Shopping,0,5.0,2
+Warminster,American (New),1,4.0,2
+Warminster,Breakfast & Brunch,1,5.0,1
+Warminster,Mexican,0,5.0,1
+Warminster,Tires,0,1.0,1
+Warrington,Bars,0,3.3333333333333335,3
+Warrington,Beauty & Spas,0,4.0,1
+Warrington,Food,0,4.0,1
+Warson Woods,Restaurants,0,1.5,2
+Warson Woods,Restaurants,1,3.0,1
+Washington Crossing,American (New),0,3.5,2
+Washington Crossing,Italian,0,3.0,1
+Washington Crossing,Specialty Food,0,3.0,1
+Waterford Works,Skin Care,0,5.0,1
+Wayne,American (Traditional),0,3.0,2
+Wayne,Buffets,0,3.5714285714285716,7
+Wayne,Buffets,1,3.0,1
+Wayne,Caterers,0,4.0,4
+Wayne,Caterers,1,4.0,3
+Wayne,Chinese,0,3.5,2
+Wayne,Chinese,1,2.0,1
+Wayne,Community Service/Non-Profit,1,4.0,1
+Wayne,Flowers & Gifts,0,4.2,5
+Wayne,Flowers & Gifts,1,5.0,1
+Wayne,Food,0,5.0,1
+Wayne,Food,1,4.0,1
+Wayne,Health & Medical,0,5.0,1
+Wayne,Italian,1,5.0,1
+Wayne,Restaurants,0,3.8181818181818183,22
+Wayne,Restaurants,1,4.0,7
+Wayne,Sandwiches,0,5.0,1
+Webster Groves,Music Venues,0,3.0,2
+Webster Groves,Music Venues,1,3.0,1
+Webster Groves,Nightlife,0,4.0,9
+Webster Groves,Nightlife,1,4.25,4
+Webster Groves,Shopping,0,4.0,1
+Wesley Chapel,Bakeries,0,5.0,2
+Wesley Chapel,Bars,0,3.2,5
+Wesley Chapel,Bars,1,5.0,1
+Wesley Chapel,Breakfast & Brunch,0,4.5,4
+Wesley Chapel,Breakfast & Brunch,1,5.0,1
+Wesley Chapel,Car Dealers,0,3.0,2
+Wesley Chapel,Coffee & Tea,0,4.0,1
+Wesley Chapel,Pet Sitting,1,5.0,1
+Wesley Chapel,Pets,0,3.0,1
+Wesley Chapel,Restaurants,0,4.333333333333333,3
+Wesley Chapel,Restaurants,1,3.6666666666666665,3
+Wesley Chapel,Shopping,0,5.0,2
+West Berlin,Water Parks,0,2.0,1
+West Berlin,Water Parks,1,2.0,1
+West Chester,Barbeque,1,4.0,1
+West Chester,Breakfast & Brunch,1,4.0,1
+West Chester,Caterers,0,4.0,1
+West Chester,Food,0,3.0,2
+West Chester,Pizza,0,4.076923076923077,13
+West Chester,Pizza,1,4.4,5
+West Chester,Pubs,0,4.0,1
+West Chester,Restaurants,0,3.6,5
+West Chester,Restaurants,1,4.0,1
+West Chester,Seafood,0,3.0,2
+West Chester,Seafood,1,3.5,2
+West Chester,Steakhouses,1,3.0,1
+West Chester,Vietnamese,1,5.0,1
+West Conshohocken,Salad,0,1.8,5
+West Conshohocken,Salad,1,3.5,2
+Westwego,Bars,0,3.0,1
+Westwego,Bars,1,4.0,1
+Westwego,Restaurants,0,4.0,2
+White House,Breakfast & Brunch,1,5.0,1
+White House,Event Planning & Services,1,4.0,1
+White House,Pizza,0,5.0,1
+Williamstown,American (Traditional),0,3.5,2
+Willow Grove,Asian Fusion,0,4.666666666666667,3
+Willow Grove,Asian Fusion,1,4.0,1
+Willow Grove,Burgers,0,3.5,2
+Willow Grove,Dim Sum,1,4.0,3
+Willow Grove,Food,0,3.5,2
+Willow Grove,Food,1,3.6666666666666665,3
+Willow Grove,Hair Salons,0,3.0,1
+Willow Grove,Sandwiches,0,2.0,1
+Willow Grove,Sandwiches,1,1.5,2
+Willow Grove,Sushi Bars,0,4.071428571428571,14
+Willow Grove,Sushi Bars,1,4.666666666666667,3
+Wilmington,American (Traditional),0,2.3333333333333335,3
+Wilmington,American (Traditional),1,3.0,1
+Wilmington,Beer Bar,0,5.0,2
+Wilmington,Burgers,0,4.5,2
+Wilmington,Burgers,1,3.0,1
+Wilmington,Event Planning & Services,0,5.0,1
+Wilmington,Fashion,0,2.5,2
+Wilmington,Food,0,3.0,5
+Wilmington,Grocery,0,4.333333333333333,3
+Wilmington,Grocery,1,4.0,2
+Wilmington,Hospitals,0,4.0,1
+Wilmington,Hotels,0,4.0,1
+Wilmington,Hotels,1,2.0,1
+Wilmington,Indian,0,3.0,1
+Wilmington,Mexican,1,4.0,1
+Wilmington,Pizza,0,3.0,3
+Wilmington,Pizza,1,3.0,1
+Wilmington,Restaurants,0,4.111111111111111,9
+Wilmington,Restaurants,1,3.5555555555555554,9
+Wilmington,Sandwiches,0,3.0,1
+Wilmington,Shopping,1,4.0,1
+Wilmington,Sushi Bars,0,3.0,1
+Wilmington,Sushi Bars,1,3.0,1
+Wimauma,Mexican,0,5.0,1
+Woodbury,Diners,0,3.0,1
+Woodbury,Diners,1,4.0,1
+Woodbury,Tex-Mex,0,4.0,2
+Woodbury,Tex-Mex,1,1.5,2
+Woolwich Twp,Restaurants,1,3.0,2
+Wyncote,Shopping,0,3.0,1
+Wyndmoor,Auto Repair,0,5.0,1
+Wyndmoor,Auto Repair,1,5.0,1
+Wynnewood,American (New),0,3.0,12
+Wynnewood,American (New),1,3.0,2
+Wynnewood,Food,0,3.5,4
+Wynnewood,Food,1,3.0,3
+Wynnewood,Grocery,0,3.0,2
+Yardley,Food,0,4.0,1
+Yardley,Grocery,0,3.0,1
+Yardley,Ice Cream & Frozen Yogurt,1,5.0,1
+Ybor City,Pubs,0,3.0,1
+Ybor City,Pubs,1,5.0,1
+Zephyrhills,Restaurants,0,3.0,1
+Zionsville,Breweries,0,4.0,1
+Zionsville,Breweries,1,4.0,1
+Zionsville,Restaurants,0,3.0,1
+Zionsville,Wine Bars,0,5.0,2
+clearwater,Dog Walkers,1,5.0,1
