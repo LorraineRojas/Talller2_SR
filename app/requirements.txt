@@ -5,3 +5,4 @@ scipy
 streamlit
 matplotlib
 tqdm
+pickle
