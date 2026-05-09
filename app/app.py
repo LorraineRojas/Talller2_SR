@@ -446,12 +446,9 @@ if st.button(
                     f"reseñas"
                 )
 
-                st.info(
-                    f"""
-                    ✨ ¿Por qué te lo recomendamos?
+                with st.expander("✨ ¿Por qué te lo recomendamos?"):
 
-                    {row['explicacion']}
-                    """
+                st.write(row["explicacion"])
                 )
 
                 with st.expander(
@@ -486,7 +483,7 @@ if st.button(
 # =========================================================
 
 with st.expander(
-    "ℹ️ Información técnica del sistema"
+    "Información técnica del sistema"
 ):
 
     st.markdown("""
@@ -513,7 +510,7 @@ with st.expander(
     ].iloc[0]
 
     st.subheader(
-        "📊 Métricas del modelo"
+        "Métricas del modelo"
     )
 
     c1, c2, c3, c4, c5 = st.columns(5)
@@ -553,7 +550,7 @@ with st.expander(
 st.markdown("---")
 
 st.caption("""
-Proyecto académico — Sistemas de Recomendación
+Taller 2 — Sistemas de Recomendación
 
 Modelo híbrido de recomendación para Yelp.
 """)
