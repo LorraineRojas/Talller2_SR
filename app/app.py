@@ -449,7 +449,7 @@ if st.button(
                 with st.expander("✨ ¿Por qué te lo recomendamos?"):
 
                 st.write(row["explicacion"])
-                )
+                
 
                 with st.expander(
                     "Ver detalles técnicos"
