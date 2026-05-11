@@ -16,6 +16,7 @@ st.set_page_config(
 )
 
 BASE_DIR = Path(__file__).parent
+DATA_DIR = BASE_DIR / "data"
 
 # =========================================================
 # ESTILOS
@@ -47,19 +48,19 @@ st.markdown("""
 def load_data():
 
     item_features = pd.read_csv(
-        BASE_DIR /data/ "item_features.csv"
+        DATA_DIR / "item_features.csv"
     )
 
     context_stats = pd.read_csv(
-        BASE_DIR /data/ "context_stats.csv"
+        DATA_DIR / "context_stats.csv"
     )
 
     metricas_regresion = pd.read_csv(
-        BASE_DIR /data/  "metricas_regresion.csv"
+        DATA_DIR / "metricas_regresion.csv"
     )
 
     metricas_ranking = pd.read_csv(
-        BASE_DIR /data/  "metricas_ranking.csv"
+        DATA_DIR /  "metricas_ranking.csv"
     )
 
     # Limpiar nombres de columnas
