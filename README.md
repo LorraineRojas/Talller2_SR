@@ -20,7 +20,7 @@ La aplicación permite descubrir negocios y restaurantes personalizados usando i
 - NumPy
 - Scikit-learn
 
-```
+---
 
 ## Dataset
 
