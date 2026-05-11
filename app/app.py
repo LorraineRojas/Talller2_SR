@@ -47,19 +47,19 @@ st.markdown("""
 def load_data():
 
     item_features = pd.read_csv(
-        BASE_DIR / "item_features.csv"
+        BASE_DIR /data/ "item_features.csv"
     )
 
     context_stats = pd.read_csv(
-        BASE_DIR / "context_stats.csv"
+        BASE_DIR /data/ "context_stats.csv"
     )
 
     metricas_regresion = pd.read_csv(
-        BASE_DIR / "metricas_regresion.csv"
+        BASE_DIR /data/  "metricas_regresion.csv"
     )
 
     metricas_ranking = pd.read_csv(
-        BASE_DIR / "metricas_ranking.csv"
+        BASE_DIR /data/  "metricas_ranking.csv"
     )
 
     # Limpiar nombres de columnas
@@ -387,7 +387,7 @@ top_n = st.sidebar.slider(
 # =========================================================
 
 st.title(
-    "🍴 Encuentra tu próximo lugar favorito"
+    "Encuentra tu próximo lugar favorito"
 )
 
 st.markdown("""
